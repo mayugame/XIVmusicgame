@@ -1,0 +1,2736 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "youtubeId": "vWgpJ0k820w",
+      "segments": [
+        {
+          "start": 42,
+          "end": 55
+        },
+        {
+          "start": 163,
+          "end": 175
+        },
+        {
+          "start": 246,
+          "end": 266
+        }
+      ],
+      "answer": "Flow",
+      "category": "豆芽"
+    },
+    {
+      "id": 2,
+      "youtubeId": "ne1w3IYXMug",
+      "segments": [
+        {
+          "start": 880,
+          "end": 920
+        }
+      ],
+      "answer": "忘卻的此方(絕 光暗未來殲滅戰 p5)",
+      "category": "絕"
+    },
+    {
+      "id": 3,
+      "youtubeId": "3pGCGgyE_8Q",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        },
+        {
+          "start": 88,
+          "end": 105
+        }
+      ],
+      "answer": "Ultima's Perfection (零式萬魔殿天獄篇4層p2)",
+      "category": "絕"
+    },
+    {
+      "id": 4,
+      "youtubeId": "NwPePF24Evs",
+      "segments": [
+        {
+          "start": 0,
+          "end": 36
+        },
+        {
+          "start": 36,
+          "end": 55
+        }
+      ],
+      "answer": "Seeking Purpose (佐拉迦殲滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 5,
+      "youtubeId": "T9Aa_LtzrdA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        },
+        {
+          "start": 70,
+          "end": 87
+        },
+        {
+          "start": 135,
+          "end": 143
+        }
+      ],
+      "answer": "Equilibrium (索菲亞殲滅戰)",
+      "category": "豆花"
+    },
+    {
+      "id": 6,
+      "youtubeId": "SQcqa8drd9E",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 46,
+          "end": 70
+        },
+        {
+          "start": 85,
+          "end": 101
+        }
+      ],
+      "answer": "It's Showtime! (阿卡狄亞登天鬥技場 輕量級一層 黑貓)",
+      "category": "豆花"
+    },
+    {
+      "id": 7,
+      "youtubeId": "wG3uq8dH_Fo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 89,
+          "end": 95
+        },
+        {
+          "start": 95,
+          "end": 107
+        }
+      ],
+      "answer": "Bee My Honey (阿卡狄亞登天鬥技場 輕量級二層 蜂蜂小甜心)",
+      "category": "豆花"
+    },
+    {
+      "id": 8,
+      "youtubeId": "6ugtWT_iNqw",
+      "segments": [
+        {
+          "start": 3,
+          "end": 10
+        },
+        {
+          "start": 113,
+          "end": 130
+        }
+      ],
+      "answer": "5.0主題曲",
+      "category": "豆芽"
+    },
+    {
+      "id": 9,
+      "youtubeId": "guDguPQvRCQ",
+      "segments": [
+        {
+          "start": 28,
+          "end": 40
+        }
+      ],
+      "answer": "十二神-月與慈愛",
+      "category": "豆花"
+    },
+    {
+      "id": 10,
+      "youtubeId": "_htiXfLqXxU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "answer": "尤特蘿普",
+      "category": "豆花"
+    },
+    {
+      "id": 11,
+      "youtubeId": "0lEo_QSOC8Q",
+      "segments": [
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "answer": "老闆",
+      "category": "豆花"
+    },
+    {
+      "id": 12,
+      "youtubeId": "nih4x5hv89Q",
+      "segments": [
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "answer": "十二神-納爾札爾",
+      "category": "豆花"
+    },
+    {
+      "id": 13,
+      "youtubeId": "WbGIB6ffzLM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 95,
+          "end": 110
+        }
+      ],
+      "answer": "天坑道中",
+      "category": "豆芽"
+    },
+    {
+      "id": 14,
+      "youtubeId": "A70LWm3qSZo",
+      "segments": [
+        {
+          "start": 30,
+          "end": 50
+        },
+        {
+          "start": 65,
+          "end": 90
+        }
+      ],
+      "answer": "博茲雅-甘戈斯",
+      "category": "絕"
+    },
+    {
+      "id": 15,
+      "youtubeId": "Rn8bylpP65c",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 100,
+          "end": 115
+        },
+        {
+          "start": 283,
+          "end": 293
+        }
+      ],
+      "answer": "拉姆減滅戰~雷光雷鳴~",
+      "category": "豆芽"
+    },
+    {
+      "id": 16,
+      "youtubeId": "OUf5Z5Ia-C8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 19
+        }
+      ],
+      "answer": "Burning Souls (阿卡狄亞登天鬥技場 輕量級三層 野蠻爆彈)",
+      "category": "豆花"
+    },
+    {
+      "id": 17,
+      "youtubeId": "72RKesgggVE",
+      "segments": [
+        {
+          "start": 20,
+          "end": 47
+        },
+        {
+          "start": 91,
+          "end": 108
+        }
+      ],
+      "answer": "Athena, The Tireless One (萬魔殿天獄篇4層)",
+      "category": "豆花"
+    },
+    {
+      "id": 18,
+      "youtubeId": "m3ugvhksot8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        },
+        {
+          "start": 58,
+          "end": 74
+        }
+      ],
+      "answer": "Scream",
+      "category": "豆花"
+    },
+    {
+      "id": 19,
+      "youtubeId": "KE7JkJAL-4Q",
+      "segments": [
+        {
+          "start": 92,
+          "end": 107
+        },
+        {
+          "start": 121,
+          "end": 152
+        }
+      ],
+      "answer": "Ultima",
+      "category": "絕"
+    },
+    {
+      "id": 20,
+      "youtubeId": "zQ4xWbsi42s",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "不會失效的約定 (伊甸希望樂園再生篇4層)",
+      "category": "豆花"
+    },
+    {
+      "id": 21,
+      "youtubeId": "dRTefk-XgDU",
+      "segments": [
+        {
+          "start": 31,
+          "end": 47
+        },
+        {
+          "start": 80,
+          "end": 100
+        }
+      ],
+      "answer": "The Extreme (零式伊甸希望樂園再生篇4層P2)",
+      "category": "絕"
+    },
+    {
+      "id": 22,
+      "youtubeId": "FtuwltmTp9I",
+      "segments": [
+        {
+          "start": 6,
+          "end": 32
+        },
+        {
+          "start": 35,
+          "end": 50
+        }
+      ],
+      "answer": "Dragonsong",
+      "category": "豆芽"
+    },
+    {
+      "id": 23,
+      "youtubeId": "D8dDZ6S__70",
+      "segments": [
+        {
+          "start": 0,
+          "end": 25
+        },
+        {
+          "start": 63,
+          "end": 76
+        }
+      ],
+      "answer": "White Stone Black (零式萬魔殿煉獄篇4層p2)",
+      "category": "絕"
+    },
+    {
+      "id": 24,
+      "youtubeId": "yJUP-VWgfAA",
+      "segments": [
+        {
+          "start": 9,
+          "end": 34
+        },
+        {
+          "start": 195,
+          "end": 214
+        },
+        {
+          "start": 215,
+          "end": 232
+        }
+      ],
+      "answer": "Shadowbringers",
+      "category": "豆芽"
+    },
+    {
+      "id": 25,
+      "youtubeId": "mAtn2W9yFrw",
+      "segments": [
+        {
+          "start": 0,
+          "end": 22
+        },
+        {
+          "start": 104,
+          "end": 126
+        }
+      ],
+      "answer": "A Trail Unending (記憶幻想 亞力山德里亞)",
+      "category": "豆芽"
+    },
+    {
+      "id": 26,
+      "youtubeId": "ocWKKD3Lswo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 22
+        },
+        {
+          "start": 24,
+          "end": 46
+        }
+      ],
+      "answer": "Fleeting Moment (萬魔殿天獄篇3層)",
+      "category": "豆花"
+    },
+    {
+      "id": 27,
+      "youtubeId": "02_IvxWc7Ys",
+      "segments": [
+        {
+          "start": 0,
+          "end": 21
+        }
+      ],
+      "answer": "Paved in Solitude (永恆女王殲滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 28,
+      "youtubeId": "U_Ebye5vJi0",
+      "segments": [
+        {
+          "start": 0,
+          "end": 16
+        },
+        {
+          "start": 18,
+          "end": 32
+        },
+        {
+          "start": 49,
+          "end": 57
+        }
+      ],
+      "answer": "Beauty's Wicked Wiles (吉祥天女殲滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 29,
+      "youtubeId": "rQjIuUDlWfI",
+      "segments": [
+        {
+          "start": 2,
+          "end": 17
+        },
+        {
+          "start": 24,
+          "end": 37
+        },
+        {
+          "start": 130,
+          "end": 144
+        }
+      ],
+      "answer": "Endcaller (佐狄亞克殲滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 30,
+      "youtubeId": "lApsrc1c6b0",
+      "segments": [
+        {
+          "start": 5,
+          "end": 34
+        },
+        {
+          "start": 38,
+          "end": 57
+        }
+      ],
+      "answer": "The Final Day (終結之戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 31,
+      "youtubeId": "sA_KyvoI2fk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 13
+        },
+        {
+          "start": 41,
+          "end": 57
+        }
+      ],
+      "answer": "邪竜の急襲 (尼德霍格征龍戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 32,
+      "youtubeId": "czKj2TAPays",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 22,
+          "end": 44
+        },
+        {
+          "start": 88,
+          "end": 110
+        }
+      ],
+      "answer": "Anatomy of Existence (魂魄工廠創生設施)",
+      "category": "豆芽"
+    },
+    {
+      "id": 33,
+      "youtubeId": "uzqsCbJOGfE",
+      "segments": [
+        {
+          "start": 87,
+          "end": 103
+        },
+        {
+          "start": 104,
+          "end": 120
+        }
+      ],
+      "answer": "With Hearts Aligned(終結之戰P2)",
+      "category": "豆芽"
+    },
+    {
+      "id": 34,
+      "youtubeId": "NlqTypXycT0",
+      "segments": [
+        {
+          "start": 0,
+          "end": 16
+        },
+        {
+          "start": 17,
+          "end": 30
+        }
+      ],
+      "answer": "Locus (亞歷山大機神城 啟動之章)",
+      "category": "豆花"
+    },
+    {
+      "id": 35,
+      "youtubeId": "JjkHRNozfvs",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        },
+        {
+          "start": 68,
+          "end": 84
+        }
+      ],
+      "answer": "The Final Battle (澤羅姆斯殲滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 36,
+      "youtubeId": "JeKbCcq9gT8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        },
+        {
+          "start": 51,
+          "end": 75
+        },
+        {
+          "start": 293,
+          "end": 309
+        }
+      ],
+      "answer": "Moebius (絕 亞歷山大殲滅戰 P5)",
+      "category": "絕"
+    },
+    {
+      "id": 37,
+      "youtubeId": "IOukdWKrAWk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 13
+        },
+        {
+          "start": 20,
+          "end": 38
+        }
+      ],
+      "answer": "決戰 (歐米茄時空夾縫 西格瑪幻境)",
+      "category": "豆花"
+    },
+    {
+      "id": 38,
+      "youtubeId": "oYZRX0Aq1SA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 17
+        },
+        {
+          "start": 40,
+          "end": 62
+        }
+      ],
+      "answer": "Imagination (蒼天聖戰 魔科學研究所)",
+      "category": "豆芽"
+    },
+    {
+      "id": 39,
+      "youtubeId": "BFGw1RI0Kts",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        },
+        {
+          "start": 28,
+          "end": 47
+        },
+        {
+          "start": 52,
+          "end": 71
+        },
+        {
+          "start": 109,
+          "end": 129
+        },
+        {
+          "start": 150,
+          "end": 169
+        }
+      ],
+      "answer": "To The Edge (光之戰士殲滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 40,
+      "youtubeId": "ucphXNy1NjY",
+      "segments": [
+        {
+          "start": 0,
+          "end": 19
+        },
+        {
+          "start": 25,
+          "end": 39
+        }
+      ],
+      "answer": "eScape (歐米茄時空夾縫 歐米茄)",
+      "category": "豆花"
+    },
+    {
+      "id": 41,
+      "youtubeId": "kOu3BrQfZfI",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        },
+        {
+          "start": 21,
+          "end": 42
+        },
+        {
+          "start": 72,
+          "end": 93
+        }
+      ],
+      "answer": "A Risky Bet (零式阿卡狄亞 輕量4 P2)",
+      "category": "絕"
+    },
+    {
+      "id": 42,
+      "youtubeId": "Vs4OtauuVns",
+      "segments": [
+        {
+          "start": 0,
+          "end": 28
+        },
+        {
+          "start": 131,
+          "end": 160
+        }
+      ],
+      "answer": "Voidcast Savior (高貝扎殲滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 43,
+      "youtubeId": "bREZqkbI2WU",
+      "segments": [
+        {
+          "start": 75,
+          "end": 97
+        },
+        {
+          "start": 169,
+          "end": 192
+        },
+        {
+          "start": 231,
+          "end": 253
+        }
+      ],
+      "answer": "Answers",
+      "category": "豆花"
+    },
+    {
+      "id": 44,
+      "youtubeId": "jVvPH3cLVT4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 24
+        },
+        {
+          "start": 25,
+          "end": 45
+        },
+        {
+          "start": 97,
+          "end": 110
+        }
+      ],
+      "answer": "創造の奇跡 創造環境極北造物院",
+      "category": "豆芽"
+    },
+    {
+      "id": 45,
+      "youtubeId": "7K4UhkfHiG4",
+      "segments": [
+        {
+          "start": 19,
+          "end": 37
+        },
+        {
+          "start": 75,
+          "end": 87
+        },
+        {
+          "start": 100,
+          "end": 112
+        }
+      ],
+      "answer": "Hic Svnt Leones (萬魔殿 邊境篇4層)",
+      "category": "豆花"
+    },
+    {
+      "id": 46,
+      "youtubeId": "E1nIlwcMZQQ",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6
+        },
+        {
+          "start": 23,
+          "end": 33
+        }
+      ],
+      "answer": "Civilizations (拉凱提卡大森林：白天)",
+      "category": "豆芽"
+    },
+    {
+      "id": 47,
+      "youtubeId": "NBIRYjP1NNM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10
+        },
+        {
+          "start": 0,
+          "end": 34
+        }
+      ],
+      "answer": "A Long Fall (異界遺構希爾科斯孿晶塔)",
+      "category": "豆花"
+    },
+    {
+      "id": 48,
+      "youtubeId": "QNgcCnGR_3E",
+      "segments": [
+        {
+          "start": 38,
+          "end": 75
+        }
+      ],
+      "answer": "仄暗い底から (天然要害沙斯塔夏溶洞)",
+      "category": "豆芽"
+    },
+    {
+      "id": 49,
+      "youtubeId": "hvgzF4BtY34",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "妨げられた眠り(地下靈殿塔姆塔拉墓園)",
+      "category": "豆芽"
+    },
+    {
+      "id": 50,
+      "youtubeId": "sAdbSY8LW8o",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "地下坑道 (封鎖坑道銅鈴銅山)",
+      "category": "豆芽"
+    },
+    {
+      "id": 51,
+      "youtubeId": "ooQL3eqgDv8",
+      "segments": [
+        {
+          "start": 33,
+          "end": 50
+        }
+      ],
+      "answer": "闘士の修練所 (魔獸領域日影地修練所)",
+      "category": "豆花"
+    },
+    {
+      "id": 52,
+      "youtubeId": "jE1N6RZDhq8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": "千の悲鳴 (監獄廢墟 托托拉克千獄)",
+      "category": "豆芽"
+    },
+    {
+      "id": 53,
+      "youtubeId": "zBPACp94-58",
+      "segments": [
+        {
+          "start": 22,
+          "end": 46
+        }
+      ],
+      "answer": "乙女の哀歌 (名門府邸 靜語莊園)",
+      "category": "豆芽"
+    },
+    {
+      "id": 54,
+      "youtubeId": "aL1ENv0Wh-Y",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "野営地のお調子者 (修養聖地布雷福洛克斯野營地)",
+      "category": "豆芽"
+    },
+    {
+      "id": 55,
+      "youtubeId": "DwYNdvSgUVQ",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "昔日の残響 (古代遺跡喀恩埋沒聖堂)",
+      "category": "豆花"
+    },
+    {
+      "id": 56,
+      "youtubeId": "pe-AGviZ82U",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": "トンベリの涙 (神靈聖域 放浪神古神殿)",
+      "category": "豆花"
+    },
+    {
+      "id": 57,
+      "youtubeId": "S_w5S1UqAAU",
+      "segments": [
+        {
+          "start": 26,
+          "end": 59
+        }
+      ],
+      "answer": "魔導の軍勢 (神兵要塞帝國南方堡)",
+      "category": "豆芽"
+    },
+    {
+      "id": 58,
+      "youtubeId": "hxloV6X0vfE",
+      "segments": [
+        {
+          "start": 60,
+          "end": 90
+        }
+      ],
+      "answer": "鋼の理念 (尼祿/莉維亞BOSS戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 59,
+      "youtubeId": "VETYSUtX6PY",
+      "segments": [
+        {
+          "start": 0,
+          "end": 31
+        }
+      ],
+      "answer": "魔導城プラエトリウム (最終決戰天幕魔導城)",
+      "category": "豆芽"
+    },
+    {
+      "id": 60,
+      "youtubeId": "Qw3q1PJUpO8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": "漆黒の王狼、咆吼せり(蓋烏斯BOSS戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 61,
+      "youtubeId": "3ccCBslaMjg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "嵐の中の灯火 (領航明燈天狼星燈塔)",
+      "category": "豆花"
+    },
+    {
+      "id": 62,
+      "youtubeId": "ctfDEcasJNs",
+      "segments": [
+        {
+          "start": 30,
+          "end": 60
+        }
+      ],
+      "answer": "魔大戦の傷跡 (腐壞遺跡無限城市街古蹟)",
+      "category": "豆花"
+    },
+    {
+      "id": 63,
+      "youtubeId": "EbC533ytjZ8",
+      "segments": [
+        {
+          "start": 68,
+          "end": 92
+        }
+      ],
+      "answer": "漆黒の誓い (慘劇靈殿 塔姆塔拉墓園)",
+      "category": "豆花"
+    },
+    {
+      "id": 64,
+      "youtubeId": "Vk-fK4lMaoc",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": "秘密坑道 (凜冽洞天 披雪大冰壁)",
+      "category": "豆芽"
+    },
+    {
+      "id": 65,
+      "youtubeId": "8ctyuJx31RU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": "銀の涙 (幻龍殘骸 密約之塔)",
+      "category": "豆芽"
+    },
+    {
+      "id": 66,
+      "youtubeId": "NuGgl-E8soM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "始祖たる幻龍 (塵世幻龍)",
+      "category": "豆芽"
+    },
+    {
+      "id": 67,
+      "youtubeId": "CnoN-GacB8Q",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": "原始の審判 (伊弗利特討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 68,
+      "youtubeId": "6PGrJczAO-A",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": "過重圧殺! (泰坦討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 69,
+      "youtubeId": "itfj1PUmpiU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 36
+        }
+      ],
+      "answer": "堕天せし者 (迦樓羅討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 70,
+      "youtubeId": "8SwPB2-NAVg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 8
+        }
+      ],
+      "answer": "善王モグル・モグXII世 (莫古力賢王討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 71,
+      "youtubeId": "K-9c17fbTxY",
+      "segments": [
+        {
+          "start": 74,
+          "end": 100
+        }
+      ],
+      "answer": "Ultima (究極武器破壞作戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 72,
+      "youtubeId": "RGoiFB5SxWI",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": "混沌の渦 (利維亞桑討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 73,
+      "youtubeId": "NdZVse2WKns",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "answer": "忘却の彼方 (濕婆討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 74,
+      "youtubeId": "19E5p4od1vc",
+      "segments": [
+        {
+          "start": 0,
+          "end": 23
+        }
+      ],
+      "answer": "斬 (奧丁討滅戰)",
+      "category": "絕"
+    },
+    {
+      "id": 75,
+      "youtubeId": "wCK7jLGcN7I",
+      "segments": [
+        {
+          "start": 0,
+          "end": 38
+        }
+      ],
+      "answer": "雷鳴 (那布里亞勒斯討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 76,
+      "youtubeId": "MgHcg_UOPCw",
+      "segments": [
+        {
+          "start": 49,
+          "end": 68
+        }
+      ],
+      "answer": "白銀の凶鳥、飛翔せり(巴哈姆特大迷宮 入侵4)",
+      "category": "絕"
+    },
+    {
+      "id": 77,
+      "youtubeId": "Uc2X1WW8u9Q",
+      "segments": [
+        {
+          "start": 0,
+          "end": 23
+        }
+      ],
+      "answer": "傲慢 (水晶塔 古代人迷宮)",
+      "category": "豆芽"
+    },
+    {
+      "id": 78,
+      "youtubeId": "iBGEdwCyqsU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 23
+        }
+      ],
+      "answer": "天上へ (水晶塔 古代人迷宮)",
+      "category": "豆芽"
+    },
+    {
+      "id": 79,
+      "youtubeId": "j5HyqLBH6zw",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "奈落へ (水晶塔 古代人迷宮)",
+      "category": "豆芽"
+    },
+    {
+      "id": 80,
+      "youtubeId": "CejdxG5HfcA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "絢爛 (水晶塔 希爾科斯塔)",
+      "category": "豆芽"
+    },
+    {
+      "id": 81,
+      "youtubeId": "_JFkoMUp6yg",
+      "segments": [
+        {
+          "start": 17,
+          "end": 38
+        }
+      ],
+      "answer": "破砕 (水晶塔 希爾科斯塔)",
+      "category": "豆芽"
+    },
+    {
+      "id": 82,
+      "youtubeId": "B3Zy2_owRe8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 22
+        }
+      ],
+      "answer": "薄闇 (水晶塔 暗之世界)",
+      "category": "豆芽"
+    },
+    {
+      "id": 83,
+      "youtubeId": "wTQPsssKtVk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "死闘の序曲 (水晶塔 暗之世界)",
+      "category": "豆芽"
+    },
+    {
+      "id": 84,
+      "youtubeId": "rF4t-x8xN3E",
+      "segments": [
+        {
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "answer": "希望の都(烏爾達哈白天)",
+      "category": "豆花"
+    },
+    {
+      "id": 85,
+      "youtubeId": "aU3q08jC6os",
+      "segments": [
+        {
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "answer": "夢見る女王陛下 (烏爾達哈晚上)",
+      "category": "豆花"
+    },
+    {
+      "id": 86,
+      "youtubeId": "B-tDrYUaAns",
+      "segments": [
+        {
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "answer": "偉大なる母港 (利姆薩羅敏薩白天)",
+      "category": "豆花"
+    },
+    {
+      "id": 87,
+      "youtubeId": "JfbtVpNfQ4A",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "船乗りは眠らない (利姆薩羅敏薩晚上)",
+      "category": "豆花"
+    },
+    {
+      "id": 88,
+      "youtubeId": "5N5Zjgh0AwA",
+      "segments": [
+        {
+          "start": 35,
+          "end": 50
+        }
+      ],
+      "answer": "水車の調べ (格里達尼亞白天)",
+      "category": "豆花"
+    },
+    {
+      "id": 89,
+      "youtubeId": "18XWUayJUjA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "堕落 (冰雪廢堡暮衛塔)",
+      "category": "豆花"
+    },
+    {
+      "id": 90,
+      "youtubeId": "6IT45ckcZZE",
+      "segments": [
+        {
+          "start": 29,
+          "end": 42
+        }
+      ],
+      "answer": "永遠の眠り(天山絕頂索姆阿爾靈峰)",
+      "category": "豆花"
+    },
+    {
+      "id": 91,
+      "youtubeId": "dt1qmqsBCVU",
+      "segments": [
+        {
+          "start": 19,
+          "end": 40
+        }
+      ],
+      "answer": "邪竜の咆吼 (邪龍王座龍巢神殿)",
+      "category": "豆芽"
+    },
+    {
+      "id": 92,
+      "youtubeId": "ZkImOevwprw",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "聖座 (聖教中樞 伊修加爾德教皇廳)",
+      "category": "豆芽"
+    },
+    {
+      "id": 93,
+      "youtubeId": "-I5AcC2-mdc",
+      "segments": [
+        {
+          "start": 39,
+          "end": 52
+        }
+      ],
+      "answer": "万世の言葉 (學識寶庫迦巴勒幻想圖書館)",
+      "category": "豆花"
+    },
+    {
+      "id": 94,
+      "youtubeId": "rqlxbTfKsAg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "上り階段をくだれ (星海空間顛倒塔)",
+      "category": "豆芽"
+    },
+    {
+      "id": 95,
+      "youtubeId": "-XINRqyp2-o",
+      "segments": [
+        {
+          "start": 0,
+          "end": 23
+        }
+      ],
+      "answer": "地殻 (險峻峽谷賽爾法特爾溪谷)",
+      "category": "豆花"
+    },
+    {
+      "id": 96,
+      "youtubeId": "5goQEOS83Os",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "アナザーブリック (監牢鐵壁巴埃薩長城)",
+      "category": "豆芽"
+    },
+    {
+      "id": 97,
+      "youtubeId": "h-B1aXv3RdY",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "武神降臨 (羅波那討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 98,
+      "youtubeId": "wYUADZ_px_w",
+      "segments": [
+        {
+          "start": 20,
+          "end": 35
+        }
+      ],
+      "answer": "曲がらぬ刃 (羅波那討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 99,
+      "youtubeId": "Z4EZ97iyIUs",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "果てなき蒼 (俾斯麥討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 100,
+      "youtubeId": "Bc4dKPZqvD4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": "英傑 (圓桌騎士討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 101,
+      "youtubeId": "MfNoBEb0ul8",
+      "segments": [
+        {
+          "start": 15,
+          "end": 27
+        }
+      ],
+      "answer": "魔神 (薩菲洛特討滅戰)",
+      "category": "豆花"
+    },
+    {
+      "id": 102,
+      "youtubeId": "yzfBTUbXYgA",
+      "segments": [
+        {
+          "start": 26,
+          "end": 45
+        }
+      ],
+      "answer": "ペンウルティマニア (祖爾宛討滅戰)",
+      "category": "豆花"
+    },
+    {
+      "id": 103,
+      "youtubeId": "YFQbYbpDKgI",
+      "segments": [
+        {
+          "start": 16,
+          "end": 30
+        }
+      ],
+      "answer": "メタル (亞歷山大機神城 律動4)",
+      "category": "豆花"
+    },
+    {
+      "id": 104,
+      "youtubeId": "Bf0wHXtXmsU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "answer": "指数崩壊 (亞歷山大機神城 天動3)",
+      "category": "豆花"
+    },
+    {
+      "id": 105,
+      "youtubeId": "eMj6q37HhNI",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "Moebius (亞歷山大機神城 天動4)",
+      "category": "豆花"
+    },
+    {
+      "id": 106,
+      "youtubeId": "XO2F7Oqr4wk",
+      "segments": [
+        {
+          "start": 90,
+          "end": 114
+        }
+      ],
+      "answer": "Rise (亞歷山大機神城 天動4)",
+      "category": "豆花"
+    },
+    {
+      "id": 107,
+      "youtubeId": "TPPLpDuWCJE",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "エーテル圏 (魔航船虛無方舟)",
+      "category": "豆花"
+    },
+    {
+      "id": 108,
+      "youtubeId": "KougG5laf4Q",
+      "segments": [
+        {
+          "start": 10,
+          "end": 26
+        }
+      ],
+      "answer": "雨と涙に濡れて (禁忌城邦馬哈)",
+      "category": "豆花"
+    },
+    {
+      "id": 109,
+      "youtubeId": "uGi8dBV_1vc",
+      "segments": [
+        {
+          "start": 38,
+          "end": 56
+        }
+      ],
+      "answer": "約束の地 (影之國)",
+      "category": "豆花"
+    },
+    {
+      "id": 110,
+      "youtubeId": "AVpztv1wp4w",
+      "segments": [
+        {
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "answer": "堅牢 (伊修加爾德白天)",
+      "category": "豆花"
+    },
+    {
+      "id": 111,
+      "youtubeId": "UTRXsHxcvis",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "answer": "雲霧街の夜霧 (伊修加爾德晚上)",
+      "category": "豆花"
+    },
+    {
+      "id": 112,
+      "youtubeId": "h5x_0bnHkA8",
+      "segments": [
+        {
+          "start": 12,
+          "end": 32
+        }
+      ],
+      "answer": "夜明けに向かって (漂流海域妖歌海)",
+      "category": "豆芽"
+    },
+    {
+      "id": 113,
+      "youtubeId": "iIt3rOv2UgE",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "開けられた玉手箱 (海底宮殿紫水宮)",
+      "category": "豆花"
+    },
+    {
+      "id": 114,
+      "youtubeId": "4UhX8oiPHxk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "英雄ならざる者 (試煉行路巴兒達木霸道)",
+      "category": "豆芽"
+    },
+    {
+      "id": 115,
+      "youtubeId": "n1_xTUR7d0M",
+      "segments": [
+        {
+          "start": 0,
+          "end": 28
+        }
+      ],
+      "answer": "月亮門 (解放決戰多瑪王城)",
+      "category": "豆芽"
+    },
+    {
+      "id": 116,
+      "youtubeId": "VUaj-VeDma0",
+      "segments": [
+        {
+          "start": 16,
+          "end": 31
+        }
+      ],
+      "answer": "アリエヌス (巨砲要塞帝國白山堡)",
+      "category": "豆芽"
+    },
+    {
+      "id": 117,
+      "youtubeId": "zbGijc_uJVM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "自由か死か (鏖戰紅蓮阿拉米格)",
+      "category": "豆芽"
+    },
+    {
+      "id": 118,
+      "youtubeId": "RKw8BmnKg1A",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "故郷より離れて (沉沒神殿斯卡拉遺跡)",
+      "category": "豆芽"
+    },
+    {
+      "id": 119,
+      "youtubeId": "9AsQqGmWXLU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "死の大地 (死亡大地終末焦土)",
+      "category": "豆芽"
+    },
+    {
+      "id": 120,
+      "youtubeId": "4zxGLZZ2bck",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "黒煙の戦い (國境防線基姆利特暗區)",
+      "category": "豆芽"
+    },
+    {
+      "id": 121,
+      "youtubeId": "KU_BB4midl8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "啓示 (須左之男討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 122,
+      "youtubeId": "kNe-ZNBHWWM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 29
+        }
+      ],
+      "answer": "龍の尾 (神龍討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 123,
+      "youtubeId": "JPydZlOCyJU",
+      "segments": [
+        {
+          "start": 114,
+          "end": 127
+        }
+      ],
+      "answer": "天つ風  (白虎討滅戰)",
+      "category": "豆花"
+    },
+    {
+      "id": 124,
+      "youtubeId": "o0n8v4QmMHk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "月下美人 (月讀討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 125,
+      "youtubeId": "xx10iSmVMo0",
+      "segments": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ],
+      "answer": "月下彼岸花 (月讀討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 126,
+      "youtubeId": "YZB3vI6svJ4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": "千年の暁 (朱雀討滅戰)",
+      "category": "豆花"
+    },
+    {
+      "id": 127,
+      "youtubeId": "6yFvNEi9KPw",
+      "segments": [
+        {
+          "start": 15,
+          "end": 27
+        }
+      ],
+      "answer": "雲蒸龍変 (青龍討滅戰)",
+      "category": "豆花"
+    },
+    {
+      "id": 128,
+      "youtubeId": "dex0cgcSpYM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "決戦 (歐米茄時空夾縫 德爾塔4)",
+      "category": "豆花"
+    },
+    {
+      "id": 129,
+      "youtubeId": "WuJzestF-3U",
+      "segments": [
+        {
+          "start": 57,
+          "end": 85
+        }
+      ],
+      "answer": "妖星乱舞 第1楽章 (歐米茄時空夾縫 西格瑪4)",
+      "category": "絕"
+    },
+    {
+      "id": 130,
+      "youtubeId": "0OHcHtUUVdk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "妖星乱舞 第2楽章 (歐米茄時空夾縫 西格瑪4)",
+      "category": "絕"
+    },
+    {
+      "id": 131,
+      "youtubeId": "LflkmSqD8P8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "妖星乱舞 第3楽章 (歐米茄時空夾縫 西格瑪4)",
+      "category": "絕"
+    },
+    {
+      "id": 132,
+      "youtubeId": "LepoYu7gZGA",
+      "segments": [
+        {
+          "start": 39,
+          "end": 53
+        }
+      ],
+      "answer": "妖星乱舞 第4楽章 (零式歐米茄時空夾縫 西格瑪4)",
+      "category": "絕"
+    },
+    {
+      "id": 133,
+      "youtubeId": "gukPjbRtK6E",
+      "segments": [
+        {
+          "start": 0,
+          "end": 22
+        }
+      ],
+      "answer": "Heartless (歐米茄時空夾縫 阿爾法4)",
+      "category": "豆花"
+    },
+    {
+      "id": 134,
+      "youtubeId": "IRpKZkPjC2g",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "空より現れし者 (零式歐米茄時空夾縫 阿爾法4)",
+      "category": "絕"
+    },
+    {
+      "id": 135,
+      "youtubeId": "q7W5zevSY-A",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "Trisection (失落之都拉巴納斯塔)",
+      "category": "豆花"
+    },
+    {
+      "id": 136,
+      "youtubeId": "kxkhA38SwQ8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "Ultema the Nice Body (樂欲之所毆博納修道院)",
+      "category": "豆花"
+    },
+    {
+      "id": 137,
+      "youtubeId": "_e54Zcc1rRg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "頂上へ (封閉聖塔黎鐸拉納大燈塔)",
+      "category": "豆花"
+    },
+    {
+      "id": 138,
+      "youtubeId": "DAe3Q4W5Xc4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "贖いの果て (絕 巴哈姆特殲滅戰)",
+      "category": "絕"
+    },
+    {
+      "id": 139,
+      "youtubeId": "D1WDRPk34gs",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "衝撃 (神拳痕白天)",
+      "category": "豆花"
+    },
+    {
+      "id": 140,
+      "youtubeId": "3gq89dzHoSE",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "余光 (神拳痕晚上)",
+      "category": "豆花"
+    },
+    {
+      "id": 141,
+      "youtubeId": "UFBpmIXGQs8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": "紅の夜明け (黃金港白天)",
+      "category": "豆花"
+    },
+    {
+      "id": 142,
+      "youtubeId": "rN1amYS7TE4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": "紅の夜更け (黃金港晚上)",
+      "category": "豆花"
+    },
+    {
+      "id": 143,
+      "youtubeId": "cN-6TmRGObE",
+      "segments": [
+        {
+          "start": 16,
+          "end": 26
+        }
+      ],
+      "answer": "父の誇り(延夏白天)",
+      "category": "豆花"
+    },
+    {
+      "id": 144,
+      "youtubeId": "h200olFSAi4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": "天晴大鯰音頭 (鯰魚族)",
+      "category": "絕"
+    },
+    {
+      "id": 145,
+      "youtubeId": "6fnEvuMU1aQ",
+      "segments": [
+        {
+          "start": 0,
+          "end": 17
+        }
+      ],
+      "answer": "炎と剣によりて (遇襲集落水灘村)",
+      "category": "豆芽"
+    },
+    {
+      "id": 146,
+      "youtubeId": "rDhj4VUhrXg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 22
+        }
+      ],
+      "answer": "虚構 (水妖幻園多恩美格禁園)",
+      "category": "豆芽"
+    },
+    {
+      "id": 147,
+      "youtubeId": "8O_-ZFERhcE",
+      "segments": [
+        {
+          "start": 42,
+          "end": 60
+        }
+      ],
+      "answer": "紐解かれしもの (文明古蹟奇坦那神影洞)",
+      "category": "豆芽"
+    },
+    {
+      "id": 148,
+      "youtubeId": "B8xPNfyf_9c",
+      "segments": [
+        {
+          "start": 20,
+          "end": 30
+        }
+      ],
+      "answer": "深き底 (避暑離宮瑪利卡大井)",
+      "category": "豆芽"
+    },
+    {
+      "id": 149,
+      "youtubeId": "ghUp26i60c0",
+      "segments": [
+        {
+          "start": 37,
+          "end": 50
+        }
+      ],
+      "answer": "獣の腹 (偽造天界格魯格火山)",
+      "category": "豆芽"
+    },
+    {
+      "id": 150,
+      "youtubeId": "B_Vfik0OVTk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 22
+        }
+      ],
+      "answer": "死の刻 (末日暗影亞馬烏羅提)",
+      "category": "豆芽"
+    },
+    {
+      "id": 151,
+      "youtubeId": "JT4QLe_XH2s",
+      "segments": [
+        {
+          "start": 0,
+          "end": 22
+        }
+      ],
+      "answer": "影なき影 (創造機構阿尼德羅學院)",
+      "category": "豆花"
+    },
+    {
+      "id": 152,
+      "youtubeId": "YvPAZk8UsQ0",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "answer": "花の館 (魔法宮殿宇宙宮)",
+      "category": "豆芽"
+    },
+    {
+      "id": 153,
+      "youtubeId": "JWyTKRMZqPw",
+      "segments": [
+        {
+          "start": 29,
+          "end": 51
+        }
+      ],
+      "answer": "すべての道が至る場所 (暗影決戰諾弗蘭特)",
+      "category": "豆花"
+    },
+    {
+      "id": 154,
+      "youtubeId": "zTXcQWD_MKQ",
+      "segments": [
+        {
+          "start": 0,
+          "end": 17
+        }
+      ],
+      "answer": "焼き立てポークシー (魔術工房瑪托雅工作室)",
+      "category": "豆花"
+    },
+    {
+      "id": 155,
+      "youtubeId": "uc5Tg3wsZ-A",
+      "segments": [
+        {
+          "start": 0,
+          "end": 17
+        }
+      ],
+      "answer": "炎の七部族 (黃金平原怕戈爾贊草原)",
+      "category": "豆花"
+    },
+    {
+      "id": 156,
+      "youtubeId": "hUVAJ60Erfo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 26
+        }
+      ],
+      "answer": "目覚めの御使い (提坦妮雅討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 157,
+      "youtubeId": "cMTRc9oAJog",
+      "segments": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ],
+      "answer": "インサニティー (無暇靈君討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 158,
+      "youtubeId": "j4PE_UWh4r8",
+      "segments": [
+        {
+          "start": 16,
+          "end": 36
+        }
+      ],
+      "answer": "輝ける蒼 (伊甸希望樂園 覺醒3)",
+      "category": "豆花"
+    },
+    {
+      "id": 159,
+      "youtubeId": "HYmLtTRWym4",
+      "segments": [
+        {
+          "start": 30,
+          "end": 45
+        }
+      ],
+      "answer": "ランドスライド (伊甸希望樂園 覺醒4)",
+      "category": "豆花"
+    },
+    {
+      "id": 160,
+      "youtubeId": "g0PsTVTHn-o",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "answer": "雷轟電撃 (伊甸希望樂園 共鳴1)",
+      "category": "豆花"
+    },
+    {
+      "id": 161,
+      "youtubeId": "7zej7VMbcMk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 14
+        }
+      ],
+      "answer": "原始の堕天使(伊甸希望樂園 共鳴2)",
+      "category": "豆花"
+    },
+    {
+      "id": 162,
+      "youtubeId": "wfgfFKNlRKk",
+      "segments": [
+        {
+          "start": 45,
+          "end": 60
+        }
+      ],
+      "answer": "忘却の此方 (伊甸希望樂園 共鳴4)",
+      "category": "豆花"
+    },
+    {
+      "id": 163,
+      "youtubeId": "gPSOaSwdEaE",
+      "segments": [
+        {
+          "start": 0,
+          "end": 26
+        }
+      ],
+      "answer": "Weight of the World／Prelude Version (複製工廠廢墟)",
+      "category": "豆花"
+    },
+    {
+      "id": 164,
+      "youtubeId": "I7a--TmXUFU",
+      "segments": [
+        {
+          "start": 87,
+          "end": 112
+        }
+      ],
+      "answer": "天より降りし力～全テヲ破壊スル黒キ巨人 (人偶軍事基地)",
+      "category": "豆花"
+    },
+    {
+      "id": 165,
+      "youtubeId": "aBXP1VQsXGA",
+      "segments": [
+        {
+          "start": 55,
+          "end": 82
+        }
+      ],
+      "answer": "カイネ (希望之砲台 塔)",
+      "category": "豆花"
+    },
+    {
+      "id": 166,
+      "youtubeId": "8dB1_38ztdU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": "世界を照らす闇 (水晶都白天)",
+      "category": "豆花"
+    },
+    {
+      "id": 167,
+      "youtubeId": "J4m105zF9q4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": "知恵は眠らず (水晶都晚上)",
+      "category": "豆花"
+    },
+    {
+      "id": 168,
+      "youtubeId": "hNSKDpEXqnM",
+      "segments": [
+        {
+          "start": 21,
+          "end": 32
+        }
+      ],
+      "answer": "冥き水底 (黑風海)",
+      "category": "豆花"
+    },
+    {
+      "id": 169,
+      "youtubeId": "luEc51tt6bw",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": "耽溺 (游末邦白天)",
+      "category": "豆芽"
+    },
+    {
+      "id": 170,
+      "youtubeId": "luImcaIKDQs",
+      "segments": [
+        {
+          "start": 0,
+          "end": 26
+        }
+      ],
+      "answer": "ゾットの塔 (異形樓閣佐特塔)",
+      "category": "豆芽"
+    },
+    {
+      "id": 171,
+      "youtubeId": "CWmv0JRP-Xc",
+      "segments": [
+        {
+          "start": 0,
+          "end": 28
+        }
+      ],
+      "answer": "ガレマルド急行 (魔導神門巴別塔)",
+      "category": "豆芽"
+    },
+    {
+      "id": 172,
+      "youtubeId": "86Dc26yBsgw",
+      "segments": [
+        {
+          "start": 29,
+          "end": 43
+        }
+      ],
+      "answer": "空が燃える日 (末日樹海萬相森國)",
+      "category": "豆芽"
+    },
+    {
+      "id": 173,
+      "youtubeId": "0zQsOU1MYmE",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "星の海 (星海深幽尋因星晶鏡)",
+      "category": "豆芽"
+    },
+    {
+      "id": 174,
+      "youtubeId": "BrXo3K-2t00",
+      "segments": [
+        {
+          "start": 27,
+          "end": 52
+        }
+      ],
+      "answer": "先ゆく星々 (最終幻想末世終跡)",
+      "category": "豆芽"
+    },
+    {
+      "id": 175,
+      "youtubeId": "J1X3u_k4Wik",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "ハピネスキャロット (樂園都市笑笑鎮)",
+      "category": "豆花"
+    },
+    {
+      "id": 176,
+      "youtubeId": "kc9EGdoAhOM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "地図を広げて (近東祕寶阿爾札達爾海底遺跡群)",
+      "category": "豆花"
+    },
+    {
+      "id": 177,
+      "youtubeId": "DptqLOMJ6_U",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "トロイア国 (異界孤域特羅亞宮廷)",
+      "category": "豆花"
+    },
+    {
+      "id": 178,
+      "youtubeId": "M7rpvessin0",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "青が灯る洞 (雪山奧窟冥魂石洞)",
+      "category": "豆花"
+    },
+    {
+      "id": 179,
+      "youtubeId": "lK2R0ODlnaE",
+      "segments": [
+        {
+          "start": 13,
+          "end": 36
+        }
+      ],
+      "answer": "星のため息 (間歇靈泉哈姆島)",
+      "category": "絕"
+    },
+    {
+      "id": 180,
+      "youtubeId": "L41Llt4JbLc",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "バロン王国 (異界深淵月面地下溪谷)",
+      "category": "豆花"
+    },
+    {
+      "id": 181,
+      "youtubeId": "2N0G2wHcq8o",
+      "segments": [
+        {
+          "start": 35,
+          "end": 59
+        }
+      ],
+      "answer": "Your Answer (海德琳討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 182,
+      "youtubeId": "YB2JVeFIDag",
+      "segments": [
+        {
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "answer": "Forged in Crimson",
+      "category": "豆花"
+    },
+    {
+      "id": 183,
+      "youtubeId": "0D2fTCnHAT4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "answer": "Embers (萬魔殿 煉獄篇4)",
+      "category": "豆花"
+    },
+    {
+      "id": 184,
+      "youtubeId": "8WE6jacmwWE",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "巡礼者の道 (燦爛神域阿格萊亞)",
+      "category": "豆花"
+    },
+    {
+      "id": 185,
+      "youtubeId": "XQllkso5mIs",
+      "segments": [
+        {
+          "start": 0,
+          "end": 28
+        }
+      ],
+      "answer": "神々の寵愛 (喜悅神域歐芙洛緒涅)",
+      "category": "豆花"
+    },
+    {
+      "id": 186,
+      "youtubeId": "UNYbNvis5iA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "answer": "願いは追い風となりて (榮華神域塔利亞)",
+      "category": "豆花"
+    },
+    {
+      "id": 187,
+      "youtubeId": "1TWAyQLy-Vk",
+      "segments": [
+        {
+          "start": 32,
+          "end": 55
+        }
+      ],
+      "answer": "Myths of the Realm (歐羅基亞)",
+      "category": "豆花"
+    },
+    {
+      "id": 188,
+      "youtubeId": "RVcVkqR-DmU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 26
+        }
+      ],
+      "answer": "熱情の奔流 (奧修昂/利姆萊茵)",
+      "category": "豆花"
+    },
+    {
+      "id": 189,
+      "youtubeId": "3LosOAKGw3Y",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "answer": "躍動する大地 (阿爾基克/妮美雅/諾菲卡/哈羅妮)",
+      "category": "豆花"
+    },
+    {
+      "id": 190,
+      "youtubeId": "wQIeze-Svfk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 26
+        }
+      ],
+      "answer": "威光 (比爾格/拉爾戈/阿澤瑪)",
+      "category": "豆花"
+    },
+    {
+      "id": 191,
+      "youtubeId": "hhaWWFkvTYo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "逆襲の咆哮 (絕 龍詩戰爭)",
+      "category": "絕"
+    },
+    {
+      "id": 192,
+      "youtubeId": "m6uctU7rLkQ",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "天より降りし力 (絕 歐米茄檢定戰)",
+      "category": "絕"
+    },
+    {
+      "id": 193,
+      "youtubeId": "QyVh5GFQpuA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "知恵の巻貝 (舊薩雷安)",
+      "category": "豆芽"
+    },
+    {
+      "id": 194,
+      "youtubeId": "AYnlrsis9-w",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": "多彩なる都 (拉札罕)",
+      "category": "豆芽"
+    },
+    {
+      "id": 195,
+      "youtubeId": "sKgDNNGAG4w",
+      "segments": [
+        {
+          "start": 56,
+          "end": 69
+        }
+      ],
+      "answer": "小さな一歩(嘆息海)",
+      "category": "豆花"
+    },
+    {
+      "id": 196,
+      "youtubeId": "juP1bNEiifI",
+      "segments": [
+        {
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "answer": "古の空 (厄爾庇斯)",
+      "category": "豆花"
+    },
+    {
+      "id": 197,
+      "youtubeId": "66mVngZ16No",
+      "segments": [
+        {
+          "start": 25,
+          "end": 50
+        }
+      ],
+      "answer": "始まりの幻域 (翁法洛斯)",
+      "category": "豆花"
+    },
+    {
+      "id": 198,
+      "youtubeId": "oWlxof6nGZI",
+      "segments": [
+        {
+          "start": 66,
+          "end": 85
+        }
+      ],
+      "answer": "デュナミスの欠片 (花海開在宇宙盡頭)",
+      "category": "豆花"
+    },
+    {
+      "id": 199,
+      "youtubeId": "B_zElC6UGYI",
+      "segments": [
+        {
+          "start": 0,
+          "end": 19
+        }
+      ],
+      "answer": "プヌティーの川上り (叢林激流生息河岸)",
+      "category": "豆芽"
+    },
+    {
+      "id": 200,
+      "youtubeId": "LcfWUnm6Qgg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "雲衝く高峰 (通天絕壁沃刻佐莫山)",
+      "category": "豆芽"
+    },
+    {
+      "id": 201,
+      "youtubeId": "M1CNfoSVjHA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": "火花と閃光 (前哨基地先鋒營)",
+      "category": "豆芽"
+    },
+    {
+      "id": 202,
+      "youtubeId": "Xx1Q-KiSZaM",
+      "segments": [
+        {
+          "start": 44,
+          "end": 69
+        }
+      ],
+      "answer": "月なきみそらの道化師たち (噩夢樂園迷途鬼區)",
+      "category": "豆花"
+    },
+    {
+      "id": 203,
+      "youtubeId": "uSLg3lvM0TM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 21
+        }
+      ],
+      "answer": "The Skyruin (艷翼蛇鳥討滅戰)",
+      "category": "豆芽"
+    },
+    {
+      "id": 204,
+      "youtubeId": "87gGfkKN__c",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "answer": "金煌なる民 (圖萊尤拉白天)",
+      "category": "絕"
+    },
+    {
+      "id": 205,
+      "youtubeId": "IYbdhVskiYA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 23
+        }
+      ],
+      "answer": "金煌なる夜明け (圖萊尤拉晚上)",
+      "category": "絕"
+    },
+    {
+      "id": 206,
+      "youtubeId": "pkBgesn0ZjM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 23
+        }
+      ],
+      "answer": "星なき摩天楼 (九號解決方案)",
+      "category": "豆花"
+    },
+    {
+      "id": 207,
+      "youtubeId": "o9BxsFNrhLs",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "answer": "Bygone Serenity (憶想之地)",
+      "category": "豆花"
+    },
+    {
+      "id": 208,
+      "youtubeId": "Zl8VlLYaII8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 21
+        }
+      ],
+      "answer": "The Ring's Reprieve (阿卡狄亞休息室)",
+      "category": "絕"
+    },
+    {
+      "id": 209,
+      "youtubeId": "kj_pWv3ISAw",
+      "segments": [
+        {
+          "start": 34,
+          "end": 45
+        }
+      ],
+      "answer": "Close in the Distance (天外天垓)",
+      "category": "豆芽"
+    }
+  ]
+}
