@@ -1,4 +1,8 @@
 {
+  "config": {
+    "latestPatch": "7.5",
+    "tcServerPatch": "7.1"
+  },
   "songs": [
     {
       "id": 1,
@@ -22,30 +26,18 @@
     },
     {
       "id": 2,
-      "youtubeId": "ne1w3IYXMug",
+      "youtubeId": "fF114OMoFgo",
       "segments": [
         {
           "start": 880,
           "end": 920
         }
       ],
-      "answer": "忘卻的此方(絕 光暗未來殲滅戰)",
-      "category": "絕"
-    },
-    {
-      "id": 3,
-      "youtubeId": "3pGCGgyE_8Q",
-      "segments": [
-        {
-          "start": 0,
-          "end": 30
-        },
-        {
-          "start": 88,
-          "end": 105
-        }
-      ],
-      "answer": "Ultima's Perfection (零式萬魔殿天獄篇4層p2)",
+      "answer": {
+        "tc": "忘却の此方 Band (絕 光暗未來殲滅戰)",
+        "en": "Return to Oblivion Band (Futures Rewritten (Ultimate))",
+        "ja": "忘却の此方 Band (絶もうひとつの未来)"
+      },
       "category": "絕"
     },
     {
@@ -61,7 +53,11 @@
           "end": 55
         }
       ],
-      "answer": "Seeking Purpose (佐拉加殲滅戰)",
+      "answer": {
+        "tc": "Seeking Purpose (佐拉加討滅戰)",
+        "en": "Seeking Purpose (Everkeep)",
+        "ja": "レゾンデートル (ゾラージャ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -101,7 +97,11 @@
           "end": 101
         }
       ],
-      "answer": "It's Showtime! (阿卡狄亞登天鬥技場 輕量1層)",
+      "answer": {
+        "tc": "It's Showtime! (阿卡狄亞登天鬥技場 輕量1)",
+        "en": "It's Showtime! (AAC Light-heavyweight M1)",
+        "ja": "It's Showtime! (至天の座アルカディア：ライトヘビー級1)"
+      },
       "category": "豆花"
     },
     {
@@ -121,7 +121,11 @@
           "end": 107
         }
       ],
-      "answer": "Bee My Honey (阿卡狄亞登天鬥技場 輕量2層)",
+      "answer": {
+        "tc": "Bee My Honey (阿卡狄亞登天鬥技場 輕量2)",
+        "en": "Bee My Honey (AAC Light-heavyweight M2)",
+        "ja": "Bee My Honey (至天の座アルカディア：ライトヘビー級2)"
+      },
       "category": "豆花"
     },
     {
@@ -137,7 +141,11 @@
           "end": 130
         }
       ],
-      "answer": "Shadowbringers (哈帝斯討滅戰)",
+      "answer": {
+        "tc": "Shadowbringers (哈迪斯討滅戰)",
+        "en": "Who Brings Shadow (the Dying Gasp)",
+        "ja": "影をもたらす者 (ハーデス討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -149,7 +157,11 @@
           "end": 40
         }
       ],
-      "answer": "月満ちる夜 (梅茵菲娜)",
+      "answer": {
+        "tc": "月満ちる夜 (梅茵菲娜)",
+        "en": "Dedicated to Moonlight (Menphina)",
+        "ja": "月満ちる夜 (メネフィナ)"
+      },
       "category": "豆花"
     },
     {
@@ -161,19 +173,27 @@
           "end": 7
         }
       ],
-      "answer": "Give it all(阿卡狄亞登天鬥技場 輕量4層)",
+      "answer": {
+        "tc": "Give It All (阿卡狄亞登天鬥技場 輕量4)",
+        "en": "Give It All (AAC Light-heavyweight M4)",
+        "ja": "Give It All (至天の座アルカディア：ライトヘビー級4)"
+      },
       "category": "豆花"
     },
     {
       "id": 11,
-      "youtubeId": "0lEo_QSOC8Q",
+      "youtubeId": "3lu4HrkiD9g",
       "segments": [
         {
           "start": 0,
           "end": 5
         }
       ],
-      "answer": "阿卡狄亞登天鬥技場 重量4層",
+      "answer": {
+        "tc": "Everything Burns (阿卡狄亞登天鬥技場 重量4)",
+        "en": "Everything Burns (AAC Heavyweight M4)",
+        "ja": "Everything Burns (至天の座アルカディア：ヘビー級4)"
+      },
       "category": "豆花"
     },
     {
@@ -185,7 +205,11 @@
           "end": 5
         }
       ],
-      "answer": "命の天秤 (納爾札爾)",
+      "answer": {
+        "tc": "命の天秤 (納爾札爾)",
+        "en": "In the Balance (Nald'thal)",
+        "ja": "命の天秤 (ナルザル)"
+      },
       "category": "豆花"
     },
     {
@@ -201,24 +225,12 @@
           "end": 110
         }
       ],
-      "answer": "樹海に沈む夢 (神聖禁地深空天坑)",
+      "answer": {
+        "tc": "樹海に沈む夢 (神聖禁地深空天坑)",
+        "en": "Lost in the Deep (the Skydeep Cenote)",
+        "ja": "樹海に沈む夢 (遺産踏査 天深きセノーテ)"
+      },
       "category": "豆芽"
-    },
-    {
-      "id": 14,
-      "youtubeId": "A70LWm3qSZo",
-      "segments": [
-        {
-          "start": 30,
-          "end": 50
-        },
-        {
-          "start": 65,
-          "end": 90
-        }
-      ],
-      "answer": "博茲雅-甘戈斯",
-      "category": "絕"
     },
     {
       "id": 15,
@@ -237,7 +249,11 @@
           "end": 293
         }
       ],
-      "answer": "拉姆討滅戰~雷光雷鳴~",
+      "answer": {
+        "tc": "雷光雷鳴 (拉姆討滅戰)",
+        "en": "Thunder Rolls (the Striking Tree)",
+        "ja": "雷光雷鳴 (ラムウ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -249,7 +265,11 @@
           "end": 19
         }
       ],
-      "answer": "Burning Souls (阿卡狄亞登天鬥技場 輕量3層)",
+      "answer": {
+        "tc": "Burning Souls (阿卡狄亞登天鬥技場 輕量3)",
+        "en": "Burning Souls (AAC Light-heavyweight M3)",
+        "ja": "Burning Souls (至天の座アルカディア：ライトヘビー級3)"
+      },
       "category": "豆花"
     },
     {
@@ -265,7 +285,11 @@
           "end": 108
         }
       ],
-      "answer": "Athena, The Tireless One (萬魔殿天獄篇4層)",
+      "answer": {
+        "tc": "Athena, the Tireless One (萬魔殿 天獄篇4)",
+        "en": "Athena, the Tireless One (Anabaseios: The Twelfth Circle)",
+        "ja": "Athena, the Tireless One (万魔殿パンデモニウム：天獄編4)"
+      },
       "category": "豆花"
     },
     {
@@ -281,12 +305,16 @@
           "end": 74
         }
       ],
-      "answer": "Scream(萬魔殿煉獄篇6層)",
+      "answer": {
+        "tc": "Scream (萬魔殿 煉獄篇)",
+        "en": "Scream (Abyssos: The Sixth Circle)",
+        "ja": "Scream (万魔殿パンデモニウム：煉獄編2)"
+      },
       "category": "豆花"
     },
     {
       "id": 19,
-      "youtubeId": "KE7JkJAL-4Q",
+      "youtubeId": "whqHpkVlbPQ",
       "segments": [
         {
           "start": 92,
@@ -297,7 +325,11 @@
           "end": 152
         }
       ],
-      "answer": "究極幻想 (絕 究極武器殲滅戰)",
+      "answer": {
+        "tc": "究極幻想 Orchestral (絕 究極武器殲滅戰)",
+        "en": "Ultima (the Weapon's Refrain (Ultimate))",
+        "ja": "究極幻想 (絶アルテマウェポン破壊作戦)"
+      },
       "category": "絕"
     },
     {
@@ -309,7 +341,11 @@
           "end": 20
         }
       ],
-      "answer": "消せない約束 (伊甸希望樂園再生篇4層)",
+      "answer": {
+        "tc": "消せない約束(伊甸希望樂園 再生4)",
+        "en": "Promises to Keep(Eden's Promise: Eternity)",
+        "ja": "消せない約束(希望の園エデン：再生編4)"
+      },
       "category": "豆花"
     },
     {
@@ -325,7 +361,11 @@
           "end": 100
         }
       ],
-      "answer": "The Extreme (零式伊甸希望樂園再生篇4層P2)",
+      "answer": {
+        "tc": "The Extreme(零式伊甸希望樂園 再生4)",
+        "en": "The Extreme(Eden's Promise: Eternity (Savage))",
+        "ja": "The Extreme(希望の園エデン零式：再生編4)"
+      },
       "category": "絕"
     },
     {
@@ -341,7 +381,11 @@
           "end": 50
         }
       ],
-      "answer": "Dragonsong(尼德霍格征龍戰)",
+      "answer": {
+        "tc": "Dragonsong (尼德霍格征龍戰)",
+        "en": "Dragonsong (the Final Steps of Faith)",
+        "ja": "Dragonsong (ニーズヘッグ征竜戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -357,7 +401,11 @@
           "end": 76
         }
       ],
-      "answer": "White Stone Black (零式萬魔殿煉獄篇4層p2)",
+      "answer": {
+        "tc": "White Stone Black (零式萬魔殿 煉獄篇4)",
+        "en": "White Stone Black (Abyssos: The Eighth Circle (Savage))",
+        "ja": "White Stone Black (万魔殿パンデモニウム零式：煉獄編4)"
+      },
       "category": "絕"
     },
     {
@@ -377,23 +425,11 @@
           "end": 232
         }
       ],
-      "answer": "Shadowbringers (哈帝斯討滅戰)",
-      "category": "豆芽"
-    },
-    {
-      "id": 25,
-      "youtubeId": "mAtn2W9yFrw",
-      "segments": [
-        {
-          "start": 0,
-          "end": 22
-        },
-        {
-          "start": 104,
-          "end": 126
-        }
-      ],
-      "answer": "A Trail Unending (記憶幻想 亞歷山德里亞)",
+      "answer": {
+        "tc": "Shadowbringers (哈迪斯討滅戰)",
+        "en": "Who Brings Shadow (the Dying Gasp)",
+        "ja": "影をもたらす者 (ハーデス討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -409,7 +445,11 @@
           "end": 46
         }
       ],
-      "answer": "Fleeting Moment (萬魔殿天獄篇3層)",
+      "answer": {
+        "tc": "Fleeting Moment (萬魔殿 天獄篇3)",
+        "en": "Fleeting Moment (Anabaseios: The Eleventh Circle)",
+        "ja": "Fleeting Moment (万魔殿パンデモニウム：天獄編3)"
+      },
       "category": "豆花"
     },
     {
@@ -421,27 +461,11 @@
           "end": 21
         }
       ],
-      "answer": "Paved in Solitude (永恆女王殲滅戰)",
-      "category": "豆芽"
-    },
-    {
-      "id": 28,
-      "youtubeId": "U_Ebye5vJi0",
-      "segments": [
-        {
-          "start": 0,
-          "end": 16
-        },
-        {
-          "start": 18,
-          "end": 32
-        },
-        {
-          "start": 49,
-          "end": 57
-        }
-      ],
-      "answer": "Beauty's Wicked Wiles (吉祥天女殲滅戰)",
+      "answer": {
+        "tc": "Paved in Solitude (永恆女王討滅戰)",
+        "en": "Paved in Solitude (the Interphos)",
+        "ja": "ひとつの路 (エターナルクイーン討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -461,7 +485,11 @@
           "end": 144
         }
       ],
-      "answer": "Endcaller (佐狄亞克殲滅戰)",
+      "answer": {
+        "tc": "ENDCALLER (佐迪亞克討滅戰)",
+        "en": "Endcaller (the Dark Inside)",
+        "ja": "ENDCALLER (ゾディアーク討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -477,7 +505,11 @@
           "end": 57
         }
       ],
-      "answer": "The Final Day (終結之戰)",
+      "answer": {
+        "tc": "The Final Day (終結之戰)",
+        "en": "The Final Day (the Final Day)",
+        "ja": "終焉の戦い (終焉の戦い)"
+      },
       "category": "豆芽"
     },
     {
@@ -493,28 +525,12 @@
           "end": 57
         }
       ],
-      "answer": "邪竜の急襲 (尼德霍格征龍戰)",
-      "category": "豆芽"
-    },
-    {
-      "id": 32,
-      "youtubeId": "czKj2TAPays",
-      "segments": [
-        {
-          "start": 0,
-          "end": 15
-        },
-        {
-          "start": 22,
-          "end": 44
-        },
-        {
-          "start": 88,
-          "end": 110
-        }
-      ],
-      "answer": "Anatomy of Existence (魂魄工廠創生設施)",
-      "category": "豆芽"
+      "answer": {
+        "tc": "邪竜の急襲 (尼德霍格征龍戰)",
+        "en": "Freefall (the Final Steps of Faith)",
+        "ja": "邪竜の急襲 (ニーズヘッグ征竜戦)"
+      },
+      "category": "豆花"
     },
     {
       "id": 33,
@@ -529,7 +545,11 @@
           "end": 120
         }
       ],
-      "answer": "With Hearts Aligned(終結之戰P2)",
+      "answer": {
+        "tc": "With Hearts Aligned (終結之戰P2)",
+        "en": "With Hearts Aligned (the Final Day)",
+        "ja": "想いが動かす力 (終焉の戦い)"
+      },
       "category": "豆芽"
     },
     {
@@ -545,7 +565,11 @@
           "end": 30
         }
       ],
-      "answer": "Locus (亞歷山大機神城 啟動之章)",
+      "answer": {
+        "tc": "Locus (亞歷山大機神城 啟動篇)",
+        "en": "Locus (Alexander - The Fist of the Father)",
+        "ja": "ローカス (機工城アレキサンダー：起動編)"
+      },
       "category": "豆花"
     },
     {
@@ -561,8 +585,12 @@
           "end": 84
         }
       ],
-      "answer": "The Final Battle (澤羅姆斯殲滅戰)",
-      "category": "豆芽"
+      "answer": {
+        "tc": "The Final Battle (澤羅姆斯討滅戰)",
+        "en": "The Final Battle (the Abyssal Fracture)",
+        "ja": "最後の闘い (ゼロムス討滅戦)"
+      },
+      "category": "豆花"
     },
     {
       "id": 36,
@@ -581,7 +609,11 @@
           "end": 309
         }
       ],
-      "answer": "Moebius (絕 亞歷山大殲滅戰 P5)",
+      "answer": {
+        "tc": "Moebius Orchestral (絕 亞歷山大殲滅戰)",
+        "en": "Moebius Orchestral (the Epic of Alexander (Ultimate))",
+        "ja": "メビウス Orchestral (絶アレキサンダー討滅戦)"
+      },
       "category": "絕"
     },
     {
@@ -597,24 +629,12 @@
           "end": 38
         }
       ],
-      "answer": "決戰 (歐米茄時空夾縫 西格瑪幻境)",
+      "answer": {
+        "tc": "決戦σ (歐米茄時空夾縫 西格瑪)",
+        "en": "A Battle Decisively (Sigmascape)",
+        "ja": "決戦σ (次元の狭間オメガ：シグマ編)"
+      },
       "category": "豆花"
-    },
-    {
-      "id": 38,
-      "youtubeId": "oYZRX0Aq1SA",
-      "segments": [
-        {
-          "start": 0,
-          "end": 17
-        },
-        {
-          "start": 40,
-          "end": 62
-        }
-      ],
-      "answer": "Imagination (蒼天聖戰 魔科學研究所)",
-      "category": "豆芽"
     },
     {
       "id": 39,
@@ -641,7 +661,11 @@
           "end": 169
         }
       ],
-      "answer": "To The Edge (光之戰士殲滅戰)",
+      "answer": {
+        "tc": "To the Edge (光之戰士討滅戰)",
+        "en": "To the Edge (the Seat of Sacrifice)",
+        "ja": "To the Edge (ウォーリア・オブ・ライト討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -657,7 +681,11 @@
           "end": 39
         }
       ],
-      "answer": "eScape (歐米茄時空夾縫 歐米茄)",
+      "answer": {
+        "tc": "eScape (歐米茄時空夾縫 阿爾法3)",
+        "en": "eScape (Alphascape V3.0)",
+        "ja": "エスケープ (次元の狭間オメガ：アルファ編3)"
+      },
       "category": "豆花"
     },
     {
@@ -677,7 +705,11 @@
           "end": 93
         }
       ],
-      "answer": "A Risky Bet (零式阿卡狄亞登天鬥技場 輕量4 P2)",
+      "answer": {
+        "tc": "A Risky Bet (零式阿卡狄亞登天鬥技場 輕量4)",
+        "en": "A Risky Bet (AAC Light-heavyweight M4 (Savage))",
+        "ja": "A Risky Bet (至天の座アルカディア零式：ライトヘビー級4)"
+      },
       "category": "絕"
     },
     {
@@ -693,12 +725,16 @@
           "end": 160
         }
       ],
-      "answer": "Voidcast Savior (高貝扎殲滅戰)",
-      "category": "豆芽"
+      "answer": {
+        "tc": "Voidcast Savior (高貝扎殲滅戰)",
+        "en": "Voidcast Savior (the Voidcast Dais)",
+        "ja": "ヴォイドの救済者 (ゴルベーザ討滅戦)"
+      },
+      "category": "豆花"
     },
     {
       "id": 43,
-      "youtubeId": "bREZqkbI2WU",
+      "youtubeId": "lSVu11piESg",
       "segments": [
         {
           "start": 75,
@@ -713,8 +749,12 @@
           "end": 253
         }
       ],
-      "answer": "Answers",
-      "category": "豆花"
+      "answer": {
+        "tc": "Answers (巴哈姆特大迷宮 真源4)",
+        "en": "Answers (the Final Coil of Bahamut - Turn 4)",
+        "ja": "Answers (大迷宮バハムート：真成編4)"
+      },
+      "category": "豆芽"
     },
     {
       "id": 44,
@@ -733,7 +773,11 @@
           "end": 110
         }
       ],
-      "answer": "創造の奇跡 (創造環境極北造物院)",
+      "answer": {
+        "tc": "創造の奇跡 (創造環境極北造物院)",
+        "en": "Miracle Works (Ktisis Hyperboreia)",
+        "ja": "創造の奇跡 (創造環境 ヒュペルボレア造物院)"
+      },
       "category": "豆芽"
     },
     {
@@ -753,7 +797,11 @@
           "end": 112
         }
       ],
-      "answer": "Hic Svnt Leones (萬魔殿 邊境篇4層)",
+      "answer": {
+        "tc": "Hic Svnt Leones (萬魔殿 邊境篇4層)",
+        "en": "Hic Svnt Leones (Asphodelos: The Fourth Circle)",
+        "ja": "此処に獅子あり (万魔殿パンデモニウム：辺獄編4)"
+      },
       "category": "豆花"
     },
     {
@@ -769,7 +817,11 @@
           "end": 33
         }
       ],
-      "answer": "Civilizations (拉凱提卡大森林：白天)",
+      "answer": {
+        "tc": "Civilizations (拉凱提卡大森林)",
+        "en": "Civilizations (Rak'tika Greatwood)",
+        "ja": "シヴィライゼーションズ (ラケティカ大森林)"
+      },
       "category": "豆芽"
     },
     {
@@ -785,7 +837,11 @@
           "end": 34
         }
       ],
-      "answer": "A Long Fall (異界遺構希爾科斯孿晶塔)",
+      "answer": {
+        "tc": "A Long Fall (異界遺構希爾科斯孿晶塔)",
+        "en": "A long fall (the Twinning)",
+        "ja": "ロングフォール (異界遺構 シルクス・ツイニング)"
+      },
       "category": "豆花"
     },
     {
@@ -797,7 +853,11 @@
           "end": 75
         }
       ],
-      "answer": "仄暗い底から (天然要害沙斯塔夏溶洞)",
+      "answer": {
+        "tc": "仄暗い底から (天然要害沙斯塔夏溶洞)",
+        "en": "From the Depths (Sastasha)",
+        "ja": "仄暗い底から (天然要害 サスタシャ浸食洞)"
+      },
       "category": "豆芽"
     },
     {
@@ -809,7 +869,11 @@
           "end": 30
         }
       ],
-      "answer": "妨げられた眠り(地下靈殿塔姆塔拉墓園)",
+      "answer": {
+        "tc": "妨げられた眠り(地下靈殿塔姆塔拉墓園)",
+        "en": "Slumber Disturbed(the Tam-Tara Deepcroft)",
+        "ja": "妨げられた眠り(地下霊殿 タムタラの墓所)"
+      },
       "category": "豆芽"
     },
     {
@@ -821,7 +885,11 @@
           "end": 30
         }
       ],
-      "answer": "地下坑道 (封鎖坑道銅鈴銅山)",
+      "answer": {
+        "tc": "地下坑道 (封鎖坑道銅鈴銅山)",
+        "en": "Below (Copperbell Mines)",
+        "ja": "地下坑道 (封鎖坑道 カッパーベル銅山)"
+      },
       "category": "豆芽"
     },
     {
@@ -833,7 +901,11 @@
           "end": 50
         }
       ],
-      "answer": "闘士の修練所 (魔獸領域日影地修練所)",
+      "answer": {
+        "tc": "闘士の修練所 (魔獸領域日影地修練所)",
+        "en": "The Ludus (Halatali)",
+        "ja": "闘士の修練所 (魔獣領域 ハラタリ修練所)"
+      },
       "category": "豆花"
     },
     {
@@ -845,7 +917,11 @@
           "end": 35
         }
       ],
-      "answer": "千の悲鳴 (監獄廢墟 托托拉克千獄)",
+      "answer": {
+        "tc": "千の悲鳴 (監獄廢墟 托托拉克千獄)",
+        "en": "A Thousand Screams (the Thousand Maws of Toto-Rak)",
+        "ja": "千の悲鳴 (監獄廃墟 トトラクの千獄)"
+      },
       "category": "豆芽"
     },
     {
@@ -857,7 +933,11 @@
           "end": 46
         }
       ],
-      "answer": "乙女の哀歌 (名門府邸 靜語莊園)",
+      "answer": {
+        "tc": "乙女の哀歌 (名門府邸 靜語莊園)",
+        "en": "The Maiden's Lament (Haukke Manor)",
+        "ja": "乙女の哀歌 (名門屋敷 ハウケタ御用邸)"
+      },
       "category": "豆芽"
     },
     {
@@ -869,7 +949,11 @@
           "end": 30
         }
       ],
-      "answer": "野営地のお調子者 (修養聖地布雷福洛克斯野營地)",
+      "answer": {
+        "tc": "野営地のお調子者 (修養聖地布雷福洛克斯野營地)",
+        "en": "Lipflaps on Longstops (Brayflox's Longstop)",
+        "ja": "野営地のお調子者 (奪還支援 ブレイフロクスの野営地)"
+      },
       "category": "豆芽"
     },
     {
@@ -881,7 +965,11 @@
           "end": 30
         }
       ],
-      "answer": "昔日の残響 (古代遺跡喀恩埋沒聖堂)",
+      "answer": {
+        "tc": "昔日の残響 (古代遺跡喀恩埋沒聖堂)",
+        "en": "Echoes of Ages Past (the Sunken Temple of Qarn)",
+        "ja": "昔日の残響 (遺跡探索 カルン埋没寺院)"
+      },
       "category": "豆花"
     },
     {
@@ -893,7 +981,11 @@
           "end": 35
         }
       ],
-      "answer": "トンベリの涙 (神靈聖域 放浪神古神殿)",
+      "answer": {
+        "tc": "トンベリの涙 (神靈聖域 放浪神古神殿)",
+        "en": "A Tonberry's Tears (the Wanderer's Palace)",
+        "ja": "トンベリの涙 (旅神聖域 ワンダラーパレス)"
+      },
       "category": "豆花"
     },
     {
@@ -905,7 +997,11 @@
           "end": 59
         }
       ],
-      "answer": "魔導の軍勢 (神兵要塞帝國南方堡)",
+      "answer": {
+        "tc": "魔導の軍勢 (神兵要塞帝國南方堡)",
+        "en": "The Emperor's Wont (Castrum Meridianum)",
+        "ja": "魔導の軍勢 (外郭攻略 カストルム・メリディアヌム)"
+      },
       "category": "豆芽"
     },
     {
@@ -917,7 +1013,11 @@
           "end": 90
         }
       ],
-      "answer": "鋼の理念 (尼祿/莉維亞BOSS戰)",
+      "answer": {
+        "tc": "鋼の理念 (尼祿/莉維亞BOSS戰)",
+        "en": "Steel Reason (Livia/Nero)",
+        "ja": "鋼の理念 (ネロ/リウィア)"
+      },
       "category": "豆芽"
     },
     {
@@ -929,7 +1029,11 @@
           "end": 31
         }
       ],
-      "answer": "魔導城プラエトリウム (最終決戰天幕魔導城)",
+      "answer": {
+        "tc": "魔導城プラエトリウム (最終決戰天幕魔導城)",
+        "en": "Penitus (the Praetorium)",
+        "ja": "魔導城プラエトリウム (最終決戦 魔導城プラエトリウム)"
+      },
       "category": "豆芽"
     },
     {
@@ -941,7 +1045,11 @@
           "end": 35
         }
       ],
-      "answer": "漆黒の王狼、咆吼せり(蓋烏斯BOSS戰)",
+      "answer": {
+        "tc": "漆黒の王狼、咆吼せり(蓋烏斯BOSS戰)",
+        "en": "Bite of the Black Wolf (Gaius)",
+        "ja": "漆黒の王狼、咆吼せり(ガイウス)"
+      },
       "category": "豆芽"
     },
     {
@@ -953,7 +1061,11 @@
           "end": 30
         }
       ],
-      "answer": "嵐の中の灯火 (領航明燈天狼星燈塔)",
+      "answer": {
+        "tc": "嵐の中の灯火 (領航明燈天狼星燈塔)",
+        "en": "A Light in the Storm (Pharos Sirius)",
+        "ja": "嵐の中の灯火 (怪鳥巨塔 シリウス大灯台)"
+      },
       "category": "豆花"
     },
     {
@@ -965,7 +1077,11 @@
           "end": 60
         }
       ],
-      "answer": "魔大戦の傷跡 (腐壞遺跡無限城市街古蹟)",
+      "answer": {
+        "tc": "魔大戦の傷跡 (腐壞遺跡無限城市街古蹟)",
+        "en": "The Scars of Battle (the Lost City of Amdapor)",
+        "ja": "魔大戦の傷跡 (腐敗遺跡 古アムダプール市街)"
+      },
       "category": "豆花"
     },
     {
@@ -977,7 +1093,11 @@
           "end": 92
         }
       ],
-      "answer": "漆黒の誓い (慘劇靈殿 塔姆塔拉墓園)",
+      "answer": {
+        "tc": "漆黒の誓い (慘劇靈殿 塔姆塔拉墓園)",
+        "en": "Dark Vows (the Tam-Tara Deepcroft (Hard))",
+        "ja": "漆黒の誓い (惨劇霊殿 タムタラの墓所 (Hard))"
+      },
       "category": "豆花"
     },
     {
@@ -989,7 +1109,11 @@
           "end": 35
         }
       ],
-      "answer": "秘密坑道 (凜冽洞天 披雪大冰壁)",
+      "answer": {
+        "tc": "秘密坑道 (凜冽洞天 披雪大冰壁)",
+        "en": "The Warrens (Snowcloak)",
+        "ja": "秘密坑道 (氷結潜窟 スノークローク大氷壁)"
+      },
       "category": "豆芽"
     },
     {
@@ -1001,7 +1125,11 @@
           "end": 35
         }
       ],
-      "answer": "銀の涙 (幻龍殘骸 密約之塔)",
+      "answer": {
+        "tc": "銀の涙 (幻龍殘骸 密約之塔)",
+        "en": "Silver Tears (the Keeper of the Lake)",
+        "ja": "銀の涙 (幻龍残骸 黙約の塔)"
+      },
       "category": "豆芽"
     },
     {
@@ -1013,7 +1141,11 @@
           "end": 30
         }
       ],
-      "answer": "始祖たる幻龍 (塵世幻龍)",
+      "answer": {
+        "tc": "始祖たる幻龍 (塵世幻龍)",
+        "en": "Primogenitor (Midgardsormr)",
+        "ja": "始祖たる幻龍 (ミドガルズオルム)"
+      },
       "category": "豆芽"
     },
     {
@@ -1025,7 +1157,11 @@
           "end": 35
         }
       ],
-      "answer": "原始の審判 (伊弗利特討滅戰)",
+      "answer": {
+        "tc": "原始の審判 (伊弗利特討滅戰)",
+        "en": "Primal Judgment (the Bowl of Embers)",
+        "ja": "原始の審判 (イフリート討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1037,7 +1173,11 @@
           "end": 35
         }
       ],
-      "answer": "過重圧殺! (泰坦討滅戰)",
+      "answer": {
+        "tc": "過重圧殺! (泰坦討滅戰)",
+        "en": "Under the Weight(the Navel)",
+        "ja": "過重圧殺! (タイタン討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1049,7 +1189,11 @@
           "end": 36
         }
       ],
-      "answer": "堕天せし者 (迦樓羅討滅戰)",
+      "answer": {
+        "tc": "堕天せし者 (迦樓羅討滅戰)",
+        "en": "Fallen Angel (the Howling Eye)",
+        "ja": "堕天せし者 (ガルーダ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1061,7 +1205,11 @@
           "end": 8
         }
       ],
-      "answer": "善王モグル・モグXII世 (莫古力賢王討滅戰)",
+      "answer": {
+        "tc": "善王モグル・モグXII世 (莫古力賢王討滅戰)",
+        "en": "Good King Moggle Mog XII (Thornmarch)",
+        "ja": "善王モグル・モグXII世 (善王モグル・モグXII世討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1073,7 +1221,11 @@
           "end": 100
         }
       ],
-      "answer": "Ultima (究極武器破壞作戰)",
+      "answer": {
+        "tc": "究極幻想 (究極武器破壞作戰)",
+        "en": "Ultima (the Porta Decumana)",
+        "ja": "究極幻想 (アルテマウェポン破壊作戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1085,7 +1237,11 @@
           "end": 35
         }
       ],
-      "answer": "混沌の渦 (利維亞桑討滅戰)",
+      "answer": {
+        "tc": "混沌の渦動 (利維亞桑討滅戰)",
+        "en": "Through the Maelstrom (the Whorleater)",
+        "ja": "混沌の渦動 (リヴァイアサン討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1097,7 +1253,11 @@
           "end": 27
         }
       ],
-      "answer": "忘却の彼方 (濕婆討滅戰)",
+      "answer": {
+        "tc": "忘却の彼方 (濕婆討滅戰)",
+        "en": "Oblivion (the Akh Afah Amphitheatre)",
+        "ja": "忘却の彼方 (シヴァ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1109,7 +1269,11 @@
           "end": 23
         }
       ],
-      "answer": "斬 (奧丁討滅戰)",
+      "answer": {
+        "tc": "斬 (奧丁討滅戰)",
+        "en": "The Corpse Hall (Urth's Fount)",
+        "ja": "斬 (闘神オーディン討滅戦)"
+      },
       "category": "絕"
     },
     {
@@ -1121,7 +1285,11 @@
           "end": 38
         }
       ],
-      "answer": "雷鳴 (那布里亞勒斯討滅戰)",
+      "answer": {
+        "tc": "雷鳴 (那布里亞勒斯討滅戰)",
+        "en": "Thunderer (the Chrysalis)",
+        "ja": "雷鳴 (アシエン・ナプリアレス討伐戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1133,7 +1301,11 @@
           "end": 68
         }
       ],
-      "answer": "白銀の凶鳥、飛翔せり(巴哈姆特大迷宮 入侵4)",
+      "answer": {
+        "tc": "白銀の凶鳥、飛翔せり(巴哈姆特大迷宮 入侵4)",
+        "en": "Rise of the White Raven(the Second Coil of Bahamut - Turn 4)",
+        "ja": "白銀の凶鳥、飛翔せり(大迷宮バハムート：侵攻編4)"
+      },
       "category": "絕"
     },
     {
@@ -1145,7 +1317,11 @@
           "end": 23
         }
       ],
-      "answer": "傲慢 (水晶塔 古代人迷宮)",
+      "answer": {
+        "tc": "傲慢 (水晶塔 古代人迷宮)",
+        "en": "Hubris (the Labyrinth of the Ancients)",
+        "ja": "傲慢 (クリスタルタワー：古代の民の迷宮)"
+      },
       "category": "豆芽"
     },
     {
@@ -1157,7 +1333,11 @@
           "end": 23
         }
       ],
-      "answer": "天上へ (水晶塔 古代人迷宮)",
+      "answer": {
+        "tc": "天上へ (水晶塔 古代人迷宮)",
+        "en": "Ever Upwards (the Labyrinth of the Ancients)",
+        "ja": "天上へ (クリスタルタワー：古代の民の迷宮)"
+      },
       "category": "豆芽"
     },
     {
@@ -1169,7 +1349,11 @@
           "end": 30
         }
       ],
-      "answer": "奈落へ (水晶塔 古代人迷宮)",
+      "answer": {
+        "tc": "奈落へ (水晶塔 古代人迷宮)",
+        "en": "Tumbling Down (the Labyrinth of the Ancients)",
+        "ja": "奈落へ (クリスタルタワー：古代の民の迷宮)"
+      },
       "category": "豆芽"
     },
     {
@@ -1181,7 +1365,11 @@
           "end": 30
         }
       ],
-      "answer": "絢爛 (水晶塔 希爾科斯塔)",
+      "answer": {
+        "tc": "絢爛 (水晶塔 希爾科斯塔)",
+        "en": "Out of the Labyrinth (Syrcus Tower)",
+        "ja": "絢爛 (クリスタルタワー：シルクスの塔)"
+      },
       "category": "豆芽"
     },
     {
@@ -1193,7 +1381,11 @@
           "end": 38
         }
       ],
-      "answer": "破砕 (水晶塔 希爾科斯塔)",
+      "answer": {
+        "tc": "破砕 (水晶塔 希爾科斯塔)",
+        "en": "Shattered (Syrcus Tower)",
+        "ja": "破砕 (クリスタルタワー：シルクスの塔)"
+      },
       "category": "豆芽"
     },
     {
@@ -1205,7 +1397,11 @@
           "end": 22
         }
       ],
-      "answer": "薄闇 (水晶塔 暗之世界)",
+      "answer": {
+        "tc": "薄闇 (水晶塔 暗之世界)",
+        "en": "Blind to the Dark (the World of Darkness)",
+        "ja": "薄闇 (クリスタルタワー：闇の世界)"
+      },
       "category": "豆芽"
     },
     {
@@ -1217,7 +1413,11 @@
           "end": 30
         }
       ],
-      "answer": "死闘の序曲 (水晶塔 暗之世界)",
+      "answer": {
+        "tc": "死闘の序曲 (水晶塔 暗之世界)",
+        "en": "Hunger (the World of Darkness)",
+        "ja": "死闘の序曲 (クリスタルタワー：闇の世界)"
+      },
       "category": "豆芽"
     },
     {
@@ -1229,7 +1429,11 @@
           "end": 12
         }
       ],
-      "answer": "希望の都(烏爾達哈白天)",
+      "answer": {
+        "tc": "希望の都(烏爾達哈白天)",
+        "en": "A New Hope (Ul'dah)",
+        "ja": "希望の都(ウルダハ)"
+      },
       "category": "豆花"
     },
     {
@@ -1241,7 +1445,11 @@
           "end": 12
         }
       ],
-      "answer": "夢見る女王陛下 (烏爾達哈晚上)",
+      "answer": {
+        "tc": "夢見る女王陛下 (烏爾達哈晚上)",
+        "en": "Sultana Dreaming (Ul'dah)",
+        "ja": "夢見る女王陛下 (ウルダハ)"
+      },
       "category": "豆花"
     },
     {
@@ -1253,7 +1461,11 @@
           "end": 12
         }
       ],
-      "answer": "偉大なる母港 (利姆薩羅敏薩白天)",
+      "answer": {
+        "tc": "偉大なる母港 (利姆薩羅敏薩白天)",
+        "en": "I Am the Sea (Limsa Lominsa)",
+        "ja": "偉大なる母港 (リムサ・ロミンサ)"
+      },
       "category": "豆花"
     },
     {
@@ -1265,7 +1477,11 @@
           "end": 20
         }
       ],
-      "answer": "船乗りは眠らない (利姆薩羅敏薩晚上)",
+      "answer": {
+        "tc": "船乗りは眠らない (利姆薩羅敏薩晚上)",
+        "en": "A Sailor Never Sleeps (Limsa Lominsa)",
+        "ja": "船乗りは眠らない (リムサ・ロミンサ)"
+      },
       "category": "豆花"
     },
     {
@@ -1277,7 +1493,11 @@
           "end": 50
         }
       ],
-      "answer": "水車の調べ (格里達尼亞白天)",
+      "answer": {
+        "tc": "水車の調べ (格里達尼亞白天)",
+        "en": "Wailers And Waterwheels (Gridania)",
+        "ja": "水車の調べ (グリダニア)"
+      },
       "category": "豆花"
     },
     {
@@ -1289,7 +1509,11 @@
           "end": 20
         }
       ],
-      "answer": "堕落 (冰雪廢堡暮衛塔)",
+      "answer": {
+        "tc": "堕落 (冰雪廢堡暮衛塔)",
+        "en": "Descent (the Dusk Vigil)",
+        "ja": "堕落 (廃砦捜索 ダスクヴィジル)"
+      },
       "category": "豆花"
     },
     {
@@ -1301,7 +1525,11 @@
           "end": 42
         }
       ],
-      "answer": "永遠の眠り(天山絕頂索姆阿爾靈峰)",
+      "answer": {
+        "tc": "永遠の眠り(天山絕頂索姆阿爾靈峰)",
+        "en": "Slumber Eternal (Sohm Al)",
+        "ja": "永遠の眠り(霊峰踏破 ソーム・アル)"
+      },
       "category": "豆花"
     },
     {
@@ -1313,7 +1541,11 @@
           "end": 40
         }
       ],
-      "answer": "邪竜の咆吼 (邪龍王座龍巢神殿)",
+      "answer": {
+        "tc": "邪竜の咆吼 (邪龍王座龍巢神殿)",
+        "en": "Roar of the Wyrm (the Aery)",
+        "ja": "邪竜の咆吼 (邪竜血戦 ドラゴンズエアリー)"
+      },
       "category": "豆芽"
     },
     {
@@ -1325,7 +1557,11 @@
           "end": 20
         }
       ],
-      "answer": "聖座 (聖教中樞 伊修加爾德教皇廳)",
+      "answer": {
+        "tc": "聖座 (聖教中樞 伊修加爾德教皇廳)",
+        "en": "Hallowed Halls (the Vault)",
+        "ja": "聖座 (強硬突入 イシュガルド教皇庁)"
+      },
       "category": "豆芽"
     },
     {
@@ -1337,7 +1573,11 @@
           "end": 52
         }
       ],
-      "answer": "万世の言葉 (學識寶庫迦巴勒幻想圖書館)",
+      "answer": {
+        "tc": "万世の言葉 (學識寶庫迦巴勒幻想圖書館)",
+        "en": "Ink Long Dry (the Great Gubal Library)",
+        "ja": "万世の言葉 (禁書回収 グブラ幻想図書館)"
+      },
       "category": "豆花"
     },
     {
@@ -1349,7 +1589,11 @@
           "end": 20
         }
       ],
-      "answer": "上り階段をくだれ (星海空間顛倒塔)",
+      "answer": {
+        "tc": "上り階段をくだれ (星海空間顛倒塔)",
+        "en": "Down the Up Staircase (the Antitower)",
+        "ja": "上り階段をくだれ (星海観測 逆さの塔)"
+      },
       "category": "豆芽"
     },
     {
@@ -1361,7 +1605,11 @@
           "end": 23
         }
       ],
-      "answer": "地殻 (險峻峽谷賽爾法特爾溪谷)",
+      "answer": {
+        "tc": "地殻 (險峻峽谷賽爾法特爾溪谷)",
+        "en": "Grounded (Xelphatol)",
+        "ja": "地殻 (峻厳渓谷 ゼルファトル)"
+      },
       "category": "豆花"
     },
     {
@@ -1373,7 +1621,11 @@
           "end": 20
         }
       ],
-      "answer": "アナザーブリック (監牢鐵壁巴埃薩長城)",
+      "answer": {
+        "tc": "アナザーブリック (監牢鐵壁巴埃薩長城)",
+        "en": "Another Brick (Baelsar's Wall)",
+        "ja": "アナザーブリック (巨大防壁 バエサルの長城)"
+      },
       "category": "豆芽"
     },
     {
@@ -1385,7 +1637,11 @@
           "end": 20
         }
       ],
-      "answer": "武神降臨 (羅波那討滅戰)",
+      "answer": {
+        "tc": "武神降臨 (羅波那討滅戰)",
+        "en": "The Hand that Gives the Rose (Thok ast Thok)",
+        "ja": "武神降臨 (ラーヴァナ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1397,7 +1653,11 @@
           "end": 35
         }
       ],
-      "answer": "曲がらぬ刃 (羅波那討滅戰)",
+      "answer": {
+        "tc": "曲がらぬ刃 (羅波那討滅戰)",
+        "en": "Unbending Steel (Thok ast Thok)",
+        "ja": "曲がらぬ刃 (ラーヴァナ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1409,7 +1669,11 @@
           "end": 20
         }
       ],
-      "answer": "果てなき蒼 (俾斯麥討滅戰)",
+      "answer": {
+        "tc": "果てなき蒼 (俾斯麥討滅戰)",
+        "en": "Limitless Blue (the Limitless Blue)",
+        "ja": "果てなき蒼 (ビスマルク討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1421,7 +1685,11 @@
           "end": 15
         }
       ],
-      "answer": "英傑 (圓桌騎士討滅戰)",
+      "answer": {
+        "tc": "英傑 (圓桌騎士討滅戰)",
+        "en": "Heroes (the Singularity Reactor)",
+        "ja": "英傑 (ナイツ・オブ・ラウンド討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1433,7 +1701,11 @@
           "end": 27
         }
       ],
-      "answer": "魔神 (薩菲洛特討滅戰)",
+      "answer": {
+        "tc": "魔神 (薩菲洛特討滅戰)",
+        "en": "Fiend (Containment Bay S1T7)",
+        "ja": "魔神 (魔神セフィロト討滅戦)"
+      },
       "category": "豆花"
     },
     {
@@ -1445,7 +1717,11 @@
           "end": 45
         }
       ],
-      "answer": "ペンウルティマニア (祖爾宛討滅戰)",
+      "answer": {
+        "tc": "ペンウルティマニア (祖爾宛討滅戰)",
+        "en": "Penultimania (Containment Bay Z1T9)",
+        "ja": "ペンウルティマニア (鬼神ズルワーン討滅戦)"
+      },
       "category": "豆花"
     },
     {
@@ -1457,7 +1733,11 @@
           "end": 30
         }
       ],
-      "answer": "メタル (亞歷山大機神城 律動4)",
+      "answer": {
+        "tc": "メタル (亞歷山大機神城 律動4)",
+        "en": "Metal (Alexander - The Burden of the Father)",
+        "ja": "メタル (機工城アレキサンダー：起動編4)"
+      },
       "category": "豆花"
     },
     {
@@ -1469,7 +1749,11 @@
           "end": 27
         }
       ],
-      "answer": "指数崩壊 (亞歷山大機神城 天動3)",
+      "answer": {
+        "tc": "指数崩壊 (亞歷山大機神城 天動3)",
+        "en": "Exponential Entropy (Alexander - The Heart of the Creator)",
+        "ja": "指数崩壊 (機工城アレキサンダー：天動編3)"
+      },
       "category": "豆花"
     },
     {
@@ -1481,7 +1765,11 @@
           "end": 30
         }
       ],
-      "answer": "Moebius (亞歷山大機神城 天動4)",
+      "answer": {
+        "tc": "Moebius (亞歷山大機神城 天動4)",
+        "en": "Moebius (Alexander - The Soul of the Creator)",
+        "ja": "メビウス (機工城アレキサンダー：天動編4)"
+      },
       "category": "豆花"
     },
     {
@@ -1493,7 +1781,11 @@
           "end": 114
         }
       ],
-      "answer": "Rise (亞歷山大機神城 天動4)",
+      "answer": {
+        "tc": "Rise (亞歷山大機神城 天動4)",
+        "en": "Rise (Alexander - The Soul of the Creator)",
+        "ja": "ライズ (機工城アレキサンダー：天動編4)"
+      },
       "category": "豆花"
     },
     {
@@ -1505,7 +1797,11 @@
           "end": 30
         }
       ],
-      "answer": "エーテル圏 (魔航船虛無方舟)",
+      "answer": {
+        "tc": "エーテル圏 (魔航船虛無方舟)",
+        "en": "Aetherosphere (the Void Ark)",
+        "ja": "エーテル圏 (魔航船ヴォイドアーク)"
+      },
       "category": "豆花"
     },
     {
@@ -1517,7 +1813,11 @@
           "end": 26
         }
       ],
-      "answer": "雨と涙に濡れて (禁忌城邦馬哈)",
+      "answer": {
+        "tc": "雨と涙に濡れて (禁忌城邦馬哈)",
+        "en": "Teardrops in the Rain (the Weeping City of Mhach)",
+        "ja": "雨と涙に濡れて (禁忌都市マハ)"
+      },
       "category": "豆花"
     },
     {
@@ -1529,7 +1829,11 @@
           "end": 56
         }
       ],
-      "answer": "約束の地 (影之國)",
+      "answer": {
+        "tc": "約束の地 (影之國)",
+        "en": "Promises (Dun Scaith)",
+        "ja": "約束の地 (影の国ダン・スカー)"
+      },
       "category": "豆花"
     },
     {
@@ -1541,7 +1845,11 @@
           "end": 24
         }
       ],
-      "answer": "堅牢 (伊修加爾德白天)",
+      "answer": {
+        "tc": "堅牢 (伊修加爾德白天)",
+        "en": "Solid (Foundation)",
+        "ja": "堅牢 (イシュガルド下層)"
+      },
       "category": "豆花"
     },
     {
@@ -1553,7 +1861,11 @@
           "end": 27
         }
       ],
-      "answer": "雲霧街の夜霧 (伊修加爾德晚上)",
+      "answer": {
+        "tc": "雲霧街の夜霧 (伊修加爾德晚上)",
+        "en": "Night in the Brume (Foundation)",
+        "ja": "雲霧街の夜霧 (イシュガルド下層)"
+      },
       "category": "豆花"
     },
     {
@@ -1565,7 +1877,11 @@
           "end": 32
         }
       ],
-      "answer": "夜明けに向かって (漂流海域妖歌海)",
+      "answer": {
+        "tc": "夜明けに向かって (漂流海域妖歌海)",
+        "en": "Dawnbound (the Sirensong Sea)",
+        "ja": "夜明けに向かって (漂流海域 セイレーン海)"
+      },
       "category": "豆芽"
     },
     {
@@ -1577,7 +1893,11 @@
           "end": 20
         }
       ],
-      "answer": "開けられた玉手箱 (海底宮殿紫水宮)",
+      "answer": {
+        "tc": "開けられた玉手箱 (海底宮殿紫水宮)",
+        "en": "The Open Box (Shisui of the Violet Tides)",
+        "ja": "開けられた玉手箱 (海底宮殿 紫水宮)"
+      },
       "category": "豆花"
     },
     {
@@ -1589,7 +1909,11 @@
           "end": 20
         }
       ],
-      "answer": "英雄ならざる者 (試煉行路巴兒達木霸道)",
+      "answer": {
+        "tc": "英雄ならざる者 (試煉行路巴兒達木霸道)",
+        "en": "Most Unworthy (Bardam's Mettle)",
+        "ja": "英雄ならざる者 (伝統試練 バルダム覇道)"
+      },
       "category": "豆芽"
     },
     {
@@ -1601,7 +1925,11 @@
           "end": 28
         }
       ],
-      "answer": "月亮門 (解放決戰多瑪王城)",
+      "answer": {
+        "tc": "月亮門 (解放決戰多瑪王城)",
+        "en": "Gates of the Moon (Doma Castle)",
+        "ja": "月亮門 (解放決戦 ドマ城)"
+      },
       "category": "豆芽"
     },
     {
@@ -1613,7 +1941,11 @@
           "end": 31
         }
       ],
-      "answer": "アリエヌス (巨砲要塞帝國白山堡)",
+      "answer": {
+        "tc": "アリエヌス (巨砲要塞帝國白山堡)",
+        "en": "Alienus (Castrum Abania)",
+        "ja": "アリエヌス (巨砲要塞 カストルム・アバニア)"
+      },
       "category": "豆芽"
     },
     {
@@ -1625,7 +1957,11 @@
           "end": 30
         }
       ],
-      "answer": "自由か死か (鏖戰紅蓮阿拉米格)",
+      "answer": {
+        "tc": "自由か死か (鏖戰紅蓮阿拉米格)",
+        "en": "Liberty or Death (Ala Mhigo)",
+        "ja": "自由か死か (紅蓮決戦 アラミゴ)"
+      },
       "category": "豆芽"
     },
     {
@@ -1637,7 +1973,11 @@
           "end": 20
         }
       ],
-      "answer": "故郷より離れて (沉沒神殿斯卡拉遺跡)",
+      "answer": {
+        "tc": "故郷より離れて (沉沒神殿斯卡拉遺跡)",
+        "en": "Far From Home (the Drowned City of Skalla)",
+        "ja": "故郷より離れて (水没遺構 スカラ)"
+      },
       "category": "豆芽"
     },
     {
@@ -1649,7 +1989,11 @@
           "end": 30
         }
       ],
-      "answer": "死の大地 (死亡大地終末焦土)",
+      "answer": {
+        "tc": "死の大地 (死亡大地終末焦土)",
+        "en": "A Land Long Dead (the Burn)",
+        "ja": "死の大地 (永久焦土 ザ・バーン)"
+      },
       "category": "豆芽"
     },
     {
@@ -1661,7 +2005,11 @@
           "end": 30
         }
       ],
-      "answer": "黒煙の戦い (國境防線基姆利特暗區)",
+      "answer": {
+        "tc": "黒煙の戦い (國境防線基姆利特暗區)",
+        "en": "A Pall Most Murderous (the Ghimlyt Dark)",
+        "ja": "黒煙の戦い (境界戦線 ギムリトダーク)"
+      },
       "category": "豆芽"
     },
     {
@@ -1673,7 +2021,11 @@
           "end": 20
         }
       ],
-      "answer": "啓示 (須左之男討滅戰)",
+      "answer": {
+        "tc": "啓示 (須左之男討滅戰)",
+        "en": "Revelation (the Pool of Tribute)",
+        "ja": "啓示 (スサノオ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1685,7 +2037,11 @@
           "end": 29
         }
       ],
-      "answer": "龍の尾 (神龍討滅戰)",
+      "answer": {
+        "tc": "龍の尾 (神龍討滅戰)",
+        "en": "The Worm's Tail (the Royal Menagerie)",
+        "ja": "龍の尾 (神龍討滅戰)"
+      },
       "category": "豆芽"
     },
     {
@@ -1697,7 +2053,11 @@
           "end": 127
         }
       ],
-      "answer": "天つ風  (白虎討滅戰)",
+      "answer": {
+        "tc": "天つ風  (白虎鎮魂戰)",
+        "en": "Amatsu Kaze  (the Jade Stoa)",
+        "ja": "天つ風  (白虎征魂戦)"
+      },
       "category": "豆花"
     },
     {
@@ -1709,7 +2069,11 @@
           "end": 30
         }
       ],
-      "answer": "月下美人 (月讀討滅戰)",
+      "answer": {
+        "tc": "月下美人 (月讀討滅戰)",
+        "en": "Nightbloom (Castrum Fluminis)",
+        "ja": "月下美人 (ツクヨミ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1721,7 +2085,11 @@
           "end": 25
         }
       ],
-      "answer": "月下彼岸花 (月讀討滅戰)",
+      "answer": {
+        "tc": "月下彼岸花 (月讀討滅戰)",
+        "en": "Wayward Daughter (Castrum Fluminis)",
+        "ja": "月下彼岸花 (ツクヨミ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -1733,7 +2101,11 @@
           "end": 15
         }
       ],
-      "answer": "千年の暁 (朱雀討滅戰)",
+      "answer": {
+        "tc": "千年の暁 (朱雀鎮魂戰)",
+        "en": "Sunrise (Hells' Kier)",
+        "ja": "千年の暁 (朱雀征魂戦)"
+      },
       "category": "豆花"
     },
     {
@@ -1745,7 +2117,11 @@
           "end": 27
         }
       ],
-      "answer": "雲蒸龍変 (青龍討滅戰)",
+      "answer": {
+        "tc": "雲蒸龍変 (青龍鎮魂戰)",
+        "en": "From the Dragon's Wake (the Wreath of Snakes)",
+        "ja": "雲蒸龍変 (青龍征魂戦)"
+      },
       "category": "豆花"
     },
     {
@@ -1757,7 +2133,11 @@
           "end": 20
         }
       ],
-      "answer": "決戦 (歐米茄時空夾縫 德爾塔4)",
+      "answer": {
+        "tc": "決戦δ (歐米茄時空夾縫 德爾塔4)",
+        "en": "Decisions (Deltascape V4.0)",
+        "ja": "決戦δ (次元の狭間オメガ：デルタ編4)"
+      },
       "category": "豆花"
     },
     {
@@ -1769,7 +2149,11 @@
           "end": 85
         }
       ],
-      "answer": "妖星乱舞 第1楽章 (歐米茄時空夾縫 西格瑪4)",
+      "answer": {
+        "tc": "妖星乱舞 第1楽章 (歐米茄時空夾縫 西格瑪4)",
+        "en": "Dancing Mad - Movement I (Sigmascape V4.0)",
+        "ja": "妖星乱舞 第1楽章 (次元の狭間オメガ：シグマ編4)"
+      },
       "category": "絕"
     },
     {
@@ -1781,7 +2165,11 @@
           "end": 20
         }
       ],
-      "answer": "妖星乱舞 第2楽章 (歐米茄時空夾縫 西格瑪4)",
+      "answer": {
+        "tc": "妖星乱舞 第2楽章 (歐米茄時空夾縫 西格瑪4)",
+        "en": "Dancing Mad - Movement II (Sigmascape V4.0)",
+        "ja": "妖星乱舞 第2楽章 (次元の狭間オメガ：シグマ編4)"
+      },
       "category": "絕"
     },
     {
@@ -1793,7 +2181,11 @@
           "end": 20
         }
       ],
-      "answer": "妖星乱舞 第3楽章 (歐米茄時空夾縫 西格瑪4)",
+      "answer": {
+        "tc": "妖星乱舞 第3楽章 (歐米茄時空夾縫 西格瑪4)",
+        "en": "Dancing Mad - Movement III (Sigmascape V4.0)",
+        "ja": "妖星乱舞 第3楽章 (次元の狭間オメガ：シグマ編4)"
+      },
       "category": "絕"
     },
     {
@@ -1805,7 +2197,11 @@
           "end": 53
         }
       ],
-      "answer": "妖星乱舞 第4楽章 (零式歐米茄時空夾縫 西格瑪4)",
+      "answer": {
+        "tc": "妖星乱舞 第4楽章 (歐米茄零式時空夾縫 西格瑪4)",
+        "en": "Dancing Mad - Movement IV (Sigmascape V4.0(Savage))",
+        "ja": "妖星乱舞 第4楽章 (次元の狭間オメガ零式：シグマ編4)"
+      },
       "category": "絕"
     },
     {
@@ -1817,7 +2213,11 @@
           "end": 22
         }
       ],
-      "answer": "Heartless (歐米茄時空夾縫 阿爾法4)",
+      "answer": {
+        "tc": "Heartless (歐米茄時空夾縫 阿爾法4)",
+        "en": "Heartless (Alphascape V4.0)",
+        "ja": "心を持たぬ者 (次元の狭間オメガ：アルファ編4)"
+      },
       "category": "豆花"
     },
     {
@@ -1829,7 +2229,11 @@
           "end": 30
         }
       ],
-      "answer": "空より現れし者 (零式歐米茄時空夾縫 阿爾法4)",
+      "answer": {
+        "tc": "空より現れし者 (歐米茄零式時空夾縫 阿爾法4)",
+        "en": "From the Heavens (Alphascape V4.0 (Savage))",
+        "ja": "空より現れし者 (次元の狭間オメガ零式：アルファ編4)"
+      },
       "category": "絕"
     },
     {
@@ -1841,7 +2245,11 @@
           "end": 20
         }
       ],
-      "answer": "Trisection (失落之都拉巴納斯塔)",
+      "answer": {
+        "tc": "Trisection (失落之都拉巴納斯塔)",
+        "en": "Trisection (the Royal City of Rabanastre)",
+        "ja": "Trisection (失われた都 ラバナスタ)"
+      },
       "category": "豆花"
     },
     {
@@ -1853,7 +2261,11 @@
           "end": 20
         }
       ],
-      "answer": "Ultema the Nice Body (樂欲之所毆博納修道院)",
+      "answer": {
+        "tc": "Ultema the Nice Body (聖天使阿爾蒂瑪)",
+        "en": "Ultema the Nice Body (Ultima, The High Seraph)",
+        "ja": "Ultema the Nice Body (聖天使アルテマヌ)"
+      },
       "category": "豆花"
     },
     {
@@ -1865,7 +2277,11 @@
           "end": 20
         }
       ],
-      "answer": "頂上へ (封閉聖塔黎鐸拉納大燈塔)",
+      "answer": {
+        "tc": "頂上へ (封閉聖塔黎鐸拉納大燈塔)",
+        "en": "Ascent (the Ridorana Lighthouse)",
+        "ja": "頂上へ (封じられた聖塔 リドルアナ)"
+      },
       "category": "豆花"
     },
     {
@@ -1877,7 +2293,11 @@
           "end": 30
         }
       ],
-      "answer": "贖いの果て (絕 巴哈姆特殲滅戰)",
+      "answer": {
+        "tc": "贖いの果て (絕 巴哈姆特殲滅戰)",
+        "en": "贖いの果て (絕 巴哈姆特殲滅戰)",
+        "ja": "贖いの果て (絕 巴哈姆特殲滅戰)"
+      },
       "category": "絕"
     },
     {
@@ -1889,8 +2309,12 @@
           "end": 30
         }
       ],
-      "answer": "衝撃 (神拳痕白天)",
-      "category": "豆花"
+      "answer": {
+        "tc": "衝撃 (神拳痕白天)",
+        "en": "Impact (Rhalgr's Reach)",
+        "ja": "衝撃 (ラールガーズリーチ)"
+      },
+      "category": "絕"
     },
     {
       "id": 140,
@@ -1901,8 +2325,12 @@
           "end": 30
         }
       ],
-      "answer": "余光 (神拳痕晚上)",
-      "category": "豆花"
+      "answer": {
+        "tc": "余光 (神拳痕晚上)",
+        "en": "Afterglow (Rhalgr's Reach)",
+        "ja": "余光 (ラールガーズリーチ)"
+      },
+      "category": "絕"
     },
     {
       "id": 141,
@@ -1913,8 +2341,12 @@
           "end": 15
         }
       ],
-      "answer": "紅の夜明け (黃金港白天)",
-      "category": "豆花"
+      "answer": {
+        "tc": "紅の夜明け (黃金港白天)",
+        "en": "Crimson Sunrise (Kugane)",
+        "ja": "紅の夜明け (クガネ)"
+      },
+      "category": "絕"
     },
     {
       "id": 142,
@@ -1925,8 +2357,12 @@
           "end": 15
         }
       ],
-      "answer": "紅の夜更け (黃金港晚上)",
-      "category": "豆花"
+      "answer": {
+        "tc": "紅の夜更け (黃金港晚上)",
+        "en": "Crimson Sunse (Kugane)",
+        "ja": "紅の夜更け (クガネ)"
+      },
+      "category": "絕"
     },
     {
       "id": 143,
@@ -1937,8 +2373,12 @@
           "end": 26
         }
       ],
-      "answer": "父の誇り(延夏白天)",
-      "category": "豆花"
+      "answer": {
+        "tc": "父の誇り(延夏白天)",
+        "en": "A Father's Pride (Yanxia)",
+        "ja": "父の誇り(ヤンサ)"
+      },
+      "category": "絕"
     },
     {
       "id": 144,
@@ -1949,7 +2389,11 @@
           "end": 15
         }
       ],
-      "answer": "天晴大鯰音頭 (鯰魚族)",
+      "answer": {
+        "tc": "天晴大鯰音頭 (鯰魚族)",
+        "en": "Seven Hundred Seventy-Seven Whiskers (Namazu)",
+        "ja": "天晴大鯰音頭 (ナマズオ)"
+      },
       "category": "絕"
     },
     {
@@ -1961,7 +2405,11 @@
           "end": 17
         }
       ],
-      "answer": "炎と剣によりて (遇襲集落水灘村)",
+      "answer": {
+        "tc": "炎と剣によりて (遇襲集落水灘村)",
+        "en": "To Fire and Sword (Holminster Switch)",
+        "ja": "炎と剣によりて (殺戮郷村 ホルミンスター)"
+      },
       "category": "豆芽"
     },
     {
@@ -1973,7 +2421,11 @@
           "end": 22
         }
       ],
-      "answer": "虚構 (水妖幻園多恩美格禁園)",
+      "answer": {
+        "tc": "虚構 (水妖幻園多恩美格禁園)",
+        "en": "Figments (Dohn Mheg)",
+        "ja": "虚構 (水妖幻園 ドォーヌ・メグ)"
+      },
       "category": "豆芽"
     },
     {
@@ -1985,7 +2437,11 @@
           "end": 60
         }
       ],
-      "answer": "紐解かれしもの (文明古蹟奇坦那神影洞)",
+      "answer": {
+        "tc": "紐解かれしもの (文明古蹟奇坦那神影洞)",
+        "en": "Unwound (the Qitana Ravel)",
+        "ja": "紐解かれしもの (古跡探索 キタンナ神影洞)"
+      },
       "category": "豆芽"
     },
     {
@@ -1997,7 +2453,11 @@
           "end": 30
         }
       ],
-      "answer": "深き底 (避暑離宮瑪利卡大井)",
+      "answer": {
+        "tc": "深き底 (避暑離宮瑪利卡大井)",
+        "en": "Deep Down (Malikah's Well)",
+        "ja": "深き底 (爽涼離宮 マリカの大井戸)"
+      },
       "category": "豆芽"
     },
     {
@@ -2009,7 +2469,11 @@
           "end": 50
         }
       ],
-      "answer": "獣の腹 (偽造天界格魯格火山)",
+      "answer": {
+        "tc": "獣の腹 (偽造天界格魯格火山)",
+        "en": "In the Belly of the Beast (Mt. Gulg)",
+        "ja": "獣の腹 (偽造天界 グルグ火山)"
+      },
       "category": "豆芽"
     },
     {
@@ -2021,7 +2485,11 @@
           "end": 22
         }
       ],
-      "answer": "死の刻 (末日暗影亞馬烏羅提)",
+      "answer": {
+        "tc": "死の刻 (末日暗影亞馬烏羅提)",
+        "en": "Mortal Instants (Amaurot)",
+        "ja": "死の刻 (終末幻想 アーモロート)"
+      },
       "category": "豆芽"
     },
     {
@@ -2033,7 +2501,11 @@
           "end": 22
         }
       ],
-      "answer": "影なき影 (創造機構阿尼德羅學院)",
+      "answer": {
+        "tc": "影なき影 (創造機構阿尼德羅學院)",
+        "en": "Shadows Withal (Akadaemia Anyder)",
+        "ja": "影なき影 (創造機関 アナイダアカデミア)"
+      },
       "category": "豆花"
     },
     {
@@ -2045,7 +2517,11 @@
           "end": 10
         }
       ],
-      "answer": "花の館 (魔法宮殿宇宙宮)",
+      "answer": {
+        "tc": "花の館 (魔法宮殿宇宙宮)",
+        "en": "The Grand Cosmos (The Grand Cosmos)",
+        "ja": "花の館 (魔法宮殿 グラン・コスモス)"
+      },
       "category": "豆芽"
     },
     {
@@ -2057,7 +2533,11 @@
           "end": 51
         }
       ],
-      "answer": "すべての道が至る場所 (暗影決戰諾弗蘭特)",
+      "answer": {
+        "tc": "すべての道が至る場所 (暗影決戰諾弗蘭特)",
+        "en": "Where All Roads Lead (the Heroes' Gauntlet)",
+        "ja": "すべての道が至る場所 (漆黒決戦 ノルヴラント)"
+      },
       "category": "豆花"
     },
     {
@@ -2069,7 +2549,11 @@
           "end": 17
         }
       ],
-      "answer": "焼き立てポークシー (魔術工房瑪托雅工作室)",
+      "answer": {
+        "tc": "焼き立てポークシー (魔術工房瑪托雅工作室)",
+        "en": "Freshly Glazed Porxie (Matoya's Relict)",
+        "ja": "焼き立てポークシー (魔術工房 マトーヤのアトリエ)"
+      },
       "category": "豆花"
     },
     {
@@ -2081,7 +2565,11 @@
           "end": 17
         }
       ],
-      "answer": "炎の七部族 (黃金平原怕戈爾贊草原)",
+      "answer": {
+        "tc": "炎の七部族 (黃金平原怕戈爾贊草原)",
+        "en": "Seven Flames (Paglth'an)",
+        "ja": "炎の七部族 (黄金平原 パガルザン)"
+      },
       "category": "豆花"
     },
     {
@@ -2093,7 +2581,11 @@
           "end": 26
         }
       ],
-      "answer": "目覚めの御使い (提坦妮雅討滅戰)",
+      "answer": {
+        "tc": "目覚めの御使い (提坦妮雅討滅戰)",
+        "en": "What Angel Wakes Me (the Dancing Plague)",
+        "ja": "目覚めの御使い (ティターニア討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -2105,7 +2597,11 @@
           "end": 25
         }
       ],
-      "answer": "インサニティー (無暇靈君討滅戰)",
+      "answer": {
+        "tc": "インサニティー (無暇靈君討滅戰)",
+        "en": "Insanity (the Crown of the Immaculate)",
+        "ja": "インサニティー (イノセンス討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -2117,7 +2613,11 @@
           "end": 36
         }
       ],
-      "answer": "輝ける蒼 (伊甸希望樂園 覺醒3)",
+      "answer": {
+        "tc": "輝ける蒼 (伊甸希望樂園 覺醒3)",
+        "en": "Blinding Indigo (Eden's Gate: Inundation)",
+        "ja": "輝ける蒼 (希望の園エデン：覚醒編3)"
+      },
       "category": "豆花"
     },
     {
@@ -2129,7 +2629,11 @@
           "end": 45
         }
       ],
-      "answer": "ランドスライド (伊甸希望樂園 覺醒4)",
+      "answer": {
+        "tc": "ランドスライド (伊甸希望樂園 覺醒4)",
+        "en": "Landslide (Eden's Gate: Sepulture)",
+        "ja": "ランドスライド (希望の園エデン：覚醒編4)"
+      },
       "category": "豆花"
     },
     {
@@ -2141,7 +2645,11 @@
           "end": 27
         }
       ],
-      "answer": "雷轟電撃 (伊甸希望樂園 共鳴1)",
+      "answer": {
+        "tc": "雷轟電撃 (伊甸希望樂園 共鳴1)",
+        "en": "Twice Stricken (Eden's Verse: Fulmination)",
+        "ja": "雷轟電撃 (希望の園エデン：共鳴編1)"
+      },
       "category": "豆花"
     },
     {
@@ -2153,7 +2661,11 @@
           "end": 14
         }
       ],
-      "answer": "原始の堕天使(伊甸希望樂園 共鳴2)",
+      "answer": {
+        "tc": "原始の堕天使(伊甸希望樂園 共鳴2)",
+        "en": "Primal Angel(Eden's Verse: Furor)",
+        "ja": "原始の堕天使(希望の園エデン：共鳴編2)"
+      },
       "category": "豆花"
     },
     {
@@ -2165,7 +2677,11 @@
           "end": 60
         }
       ],
-      "answer": "忘却の此方 (伊甸希望樂園 共鳴4)",
+      "answer": {
+        "tc": "忘却の此方 (伊甸希望樂園 共鳴4)",
+        "en": "Return to Oblivion (Eden's Verse: Refulgence)",
+        "ja": "忘却の此方 (希望の園エデン：共鳴編4)"
+      },
       "category": "豆花"
     },
     {
@@ -2177,7 +2693,11 @@
           "end": 26
         }
       ],
-      "answer": "Weight of the World／Prelude Version (複製工廠廢墟)",
+      "answer": {
+        "tc": "Weight of the World／Prelude Version (複製工廠廢墟)",
+        "en": "Weight of the World／Prelude Version (the Copied Factory)",
+        "ja": "Weight of the World／Prelude Version (複製サレタ工場廃墟)"
+      },
       "category": "豆花"
     },
     {
@@ -2189,7 +2709,11 @@
           "end": 112
         }
       ],
-      "answer": "天より降りし力～全テヲ破壊スル黒キ巨人 (人偶軍事基地)",
+      "answer": {
+        "tc": "天より降りし力～全テヲ破壊スル黒キ巨人 (人偶軍事基地)",
+        "en": "Torn from the Heavens/The Dark Colossus Destroys All (the Puppets' Bunker)",
+        "ja": "天より降りし力～全テヲ破壊スル黒キ巨人 (人形タチノ軍事基地)"
+      },
       "category": "豆花"
     },
     {
@@ -2201,7 +2725,11 @@
           "end": 82
         }
       ],
-      "answer": "カイネ (希望之砲台 塔)",
+      "answer": {
+        "tc": "カイネ (希望之砲台 塔)",
+        "en": "Kainé (the Tower at Paradigm's Breach)",
+        "ja": "カイネ (希望ノ砲台：「塔」)"
+      },
       "category": "豆花"
     },
     {
@@ -2213,7 +2741,11 @@
           "end": 15
         }
       ],
-      "answer": "世界を照らす闇 (水晶都白天)",
+      "answer": {
+        "tc": "世界を照らす闇 (水晶都白天)",
+        "en": "The Dark Which Illuminates the World (The Crystarium)",
+        "ja": "世界を照らす闇 (クリスタリウム)"
+      },
       "category": "豆花"
     },
     {
@@ -2225,7 +2757,11 @@
           "end": 15
         }
       ],
-      "answer": "知恵は眠らず (水晶都晚上)",
+      "answer": {
+        "tc": "知恵は眠らず (水晶都晚上)",
+        "en": "Knowledge Never Sleeps (The Crystarium)",
+        "ja": "知恵は眠らず (クリスタリウム)"
+      },
       "category": "豆花"
     },
     {
@@ -2237,7 +2773,11 @@
           "end": 32
         }
       ],
-      "answer": "冥き水底 (黑風海)",
+      "answer": {
+        "tc": "冥き水底 (黑風海)",
+        "en": "Neath Dark Waters (The Tempest)",
+        "ja": "冥き水底 (テンペスト)"
+      },
       "category": "豆花"
     },
     {
@@ -2249,8 +2789,12 @@
           "end": 15
         }
       ],
-      "answer": "耽溺 (游末邦白天)",
-      "category": "豆芽"
+      "answer": {
+        "tc": "耽溺 (游末邦白天)",
+        "en": "Indulgence (Eulmore)",
+        "ja": "耽溺 (ユールモア)"
+      },
+      "category": "豆花"
     },
     {
       "id": 170,
@@ -2261,7 +2805,11 @@
           "end": 26
         }
       ],
-      "answer": "ゾットの塔 (異形樓閣佐特塔)",
+      "answer": {
+        "tc": "ゾットの塔 (異形樓閣佐特塔)",
+        "en": "Tower of Zot (The Tower of Zot)",
+        "ja": "ゾットの塔 (異形楼閣 ゾットの塔)"
+      },
       "category": "豆芽"
     },
     {
@@ -2273,7 +2821,11 @@
           "end": 28
         }
       ],
-      "answer": "ガレマルド急行 (魔導神門巴別塔)",
+      "answer": {
+        "tc": "ガレマルド急行 (魔導神門巴別塔)",
+        "en": "Garlemald Express (the Tower of Babil)",
+        "ja": "ガレマルド急行 (魔導神門 バブイルの塔)"
+      },
       "category": "豆芽"
     },
     {
@@ -2285,7 +2837,11 @@
           "end": 43
         }
       ],
-      "answer": "空が燃える日 (末日樹海萬相森國)",
+      "answer": {
+        "tc": "空が燃える日 (末日樹海萬相森國)",
+        "en": "As the Sky Burns (Vanaspati)",
+        "ja": "空が燃える日 (終末樹海 ヴァナスパティ)"
+      },
       "category": "豆芽"
     },
     {
@@ -2297,7 +2853,11 @@
           "end": 30
         }
       ],
-      "answer": "星の海 (星海深幽尋因星晶鏡)",
+      "answer": {
+        "tc": "星の海 (星海深幽尋因星晶鏡)",
+        "en": "The Aetherial Sea (the Aitiascope)",
+        "ja": "星の海 (星海潜航 アイティオン星晶鏡)"
+      },
       "category": "豆芽"
     },
     {
@@ -2309,7 +2869,11 @@
           "end": 52
         }
       ],
-      "answer": "先ゆく星々 (最終幻想末世終跡)",
+      "answer": {
+        "tc": "先ゆく星々 (最終幻想末世終跡)",
+        "en": "Of Countless Stars (the Dead Ends)",
+        "ja": "先ゆく星々 (最終幻想 レムナント)"
+      },
       "category": "豆芽"
     },
     {
@@ -2321,7 +2885,11 @@
           "end": 30
         }
       ],
-      "answer": "ハピネスキャロット (樂園都市笑笑鎮)",
+      "answer": {
+        "tc": "ハピネスキャロット (樂園都市笑笑鎮)",
+        "en": "Carrots of Happiness (Smileton)",
+        "ja": "ハピネスキャロット (楽園都市 スマイルトン)"
+      },
       "category": "豆花"
     },
     {
@@ -2333,7 +2901,11 @@
           "end": 30
         }
       ],
-      "answer": "地図を広げて (近東祕寶阿爾札達爾海底遺跡群)",
+      "answer": {
+        "tc": "地図を広げて (近東祕寶阿爾札達爾海底遺跡群)",
+        "en": "Revenge Twofold (Alzadaal's Legacy)",
+        "ja": "地図を広げて (近東秘宝 アルザダール海底遺跡群)"
+      },
       "category": "豆花"
     },
     {
@@ -2345,7 +2917,11 @@
           "end": 30
         }
       ],
-      "answer": "トロイア国 (異界孤域特羅亞宮廷)",
+      "answer": {
+        "tc": "トロイア国 (異界孤域特羅亞宮廷)",
+        "en": "Troian Beauty (the Fell Court of Troia)",
+        "ja": "トロイア国 (異界孤城 トロイアコート)"
+      },
       "category": "豆花"
     },
     {
@@ -2357,7 +2933,11 @@
           "end": 30
         }
       ],
-      "answer": "青が灯る洞 (雪山奧窟冥魂石洞)",
+      "answer": {
+        "tc": "青が灯る洞 (雪山奧窟冥魂石洞)",
+        "en": "Deep Blue (Lapis Manalis)",
+        "ja": "青が灯る洞 (雪山冥洞 ラピス・マナリス)"
+      },
       "category": "豆花"
     },
     {
@@ -2369,7 +2949,11 @@
           "end": 36
         }
       ],
-      "answer": "星のため息 (間歇靈泉哈姆島)",
+      "answer": {
+        "tc": "星のため息 (間歇靈泉哈姆島)",
+        "en": "Starsbreath (the Aetherfont)",
+        "ja": "星のため息 (星霊間欠 ハーム島)"
+      },
       "category": "絕"
     },
     {
@@ -2381,7 +2965,11 @@
           "end": 30
         }
       ],
-      "answer": "バロン王国 (異界深淵月面地下溪谷)",
+      "answer": {
+        "tc": "バロン王国 (異界深淵月面地下溪谷)",
+        "en": "Kingdom of Baron (the Lunar Subterrane)",
+        "ja": "バロン王国 (深淵潜行 月の地下渓谷)"
+      },
       "category": "豆花"
     },
     {
@@ -2393,7 +2981,11 @@
           "end": 59
         }
       ],
-      "answer": "Your Answer (海德琳討滅戰)",
+      "answer": {
+        "tc": "Your Answer (海德琳討滅戰)",
+        "en": "Your Answer (the Mothercrystal)",
+        "ja": "Your Answer (ハイデリン討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -2405,7 +2997,11 @@
           "end": 24
         }
       ],
-      "answer": "Forged in Crimson",
+      "answer": {
+        "tc": "Forged in Crimson (盧比坎特討滅戰)",
+        "en": "Forged in Crimson (Mount Ordeals)",
+        "ja": "Forged in Crimson (ルビカンテ討滅戦)"
+      },
       "category": "豆花"
     },
     {
@@ -2417,7 +3013,11 @@
           "end": 13
         }
       ],
-      "answer": "Embers (萬魔殿 煉獄篇4)",
+      "answer": {
+        "tc": "Embers (萬魔殿 煉獄篇4)",
+        "en": "Embers (Abyssos: The Eighth Circle)",
+        "ja": "Embers (万魔殿パンデモニウム：煉獄編4)"
+      },
       "category": "豆花"
     },
     {
@@ -2429,7 +3029,11 @@
           "end": 20
         }
       ],
-      "answer": "巡礼者の道 (燦爛神域阿格萊亞)",
+      "answer": {
+        "tc": "巡礼者の道 (燦爛神域阿格萊亞)",
+        "en": "Pilgrimage (Aglaia)",
+        "ja": "巡礼者の道 (輝ける神域 アグライア)"
+      },
       "category": "豆花"
     },
     {
@@ -2441,7 +3045,11 @@
           "end": 28
         }
       ],
-      "answer": "神々の寵愛 (喜悅神域歐芙洛緒涅)",
+      "answer": {
+        "tc": "神々の寵愛 (喜悅神域歐芙洛緒涅)",
+        "en": "Favor (Euphrosyne)",
+        "ja": "神々の寵愛 (喜びの神域 エウプロシュネ)"
+      },
       "category": "豆花"
     },
     {
@@ -2453,7 +3061,11 @@
           "end": 24
         }
       ],
-      "answer": "願いは追い風となりて (榮華神域塔利亞)",
+      "answer": {
+        "tc": "願いは追い風となりて (榮華神域塔利亞)",
+        "en": "Fair Winds to Guide (Thaleia)",
+        "ja": "願いは追い風となりて (華めく神域 タレイア)"
+      },
       "category": "豆花"
     },
     {
@@ -2465,7 +3077,11 @@
           "end": 55
         }
       ],
-      "answer": "Myths of the Realm (歐羅基亞)",
+      "answer": {
+        "tc": "Myths of the Realm (歐羅基亞)",
+        "en": "Myths of the Realm (Eulogia)",
+        "ja": "Myths of the Realm (エウロギア)"
+      },
       "category": "豆花"
     },
     {
@@ -2477,7 +3093,11 @@
           "end": 26
         }
       ],
-      "answer": "熱情の奔流 (奧修昂/利姆萊茵)",
+      "answer": {
+        "tc": "熱情の奔流 (奧修昂/利姆萊茵)",
+        "en": "Course Uncharted (Oschon/Llymlaen)",
+        "ja": "熱情の奔流 (オシュオン/リムレーン)"
+      },
       "category": "豆花"
     },
     {
@@ -2489,7 +3109,11 @@
           "end": 27
         }
       ],
-      "answer": "躍動する大地 (阿爾基克/妮美雅/諾菲卡/哈羅妮)",
+      "answer": {
+        "tc": "躍動する大地 (阿爾基克/妮美雅/諾菲卡/哈羅妮)",
+        "en": "Rhythm of the Realm (Nophica/Althyk/Nymeia/Halone)",
+        "ja": "躍動する大地 (ノフィカ/アルジク/ニメーヤ/ハルオーネ)"
+      },
       "category": "豆花"
     },
     {
@@ -2501,7 +3125,11 @@
           "end": 26
         }
       ],
-      "answer": "威光 (比爾格/拉爾戈/阿澤瑪)",
+      "answer": {
+        "tc": "威光 (比爾格/拉爾戈/阿澤瑪)",
+        "en": "Radiance (Byregot/Rhalgr/Azeyma)",
+        "ja": "威光 (ビエルゴ/ラールガー/アーゼマ)"
+      },
       "category": "豆花"
     },
     {
@@ -2513,7 +3141,11 @@
           "end": 30
         }
       ],
-      "answer": "逆襲の咆哮 (絕 龍詩戰爭)",
+      "answer": {
+        "tc": "逆襲の咆哮 (絕 龍詩戰爭)",
+        "en": "Revenge Twofold (Dragonsong's Reprise (Ultimate))",
+        "ja": "逆襲の咆哮 (絶竜詩戦争)"
+      },
       "category": "絕"
     },
     {
@@ -2525,7 +3157,11 @@
           "end": 30
         }
       ],
-      "answer": "天より降りし力 (絕 歐米茄檢定戰)",
+      "answer": {
+        "tc": "天より降りし力 Concert (絕 歐米茄檢定戰)",
+        "en": "Torn from the Heavens (the Omega Protocol (Ultimate))",
+        "ja": "天より降りし力 (絶オメガ検証戦)"
+      },
       "category": "絕"
     },
     {
@@ -2537,7 +3173,11 @@
           "end": 20
         }
       ],
-      "answer": "知恵の巻貝 (舊薩雷安)",
+      "answer": {
+        "tc": "知恵の巻貝 (舊薩雷安)",
+        "en": "The Ewer Brimmeth (Old Sharlayan)",
+        "ja": "知恵の巻貝 (オールド・シャーレアン)"
+      },
       "category": "豆芽"
     },
     {
@@ -2549,7 +3189,11 @@
           "end": 20
         }
       ],
-      "answer": "多彩なる都 (拉札罕)",
+      "answer": {
+        "tc": "多彩なる都 (拉札罕)",
+        "en": "Vibrant Voices (Radz-at-Han)",
+        "ja": "多彩なる都 (ラザハン)"
+      },
       "category": "豆芽"
     },
     {
@@ -2561,7 +3205,11 @@
           "end": 69
         }
       ],
-      "answer": "小さな一歩(嘆息海)",
+      "answer": {
+        "tc": "小さな一歩(嘆息海)",
+        "en": "One Small Step (Mare Lamentorum)",
+        "ja": "小さな一歩 (嘆きの海)"
+      },
       "category": "豆花"
     },
     {
@@ -2573,7 +3221,11 @@
           "end": 24
         }
       ],
-      "answer": "古の空 (厄爾庇斯)",
+      "answer": {
+        "tc": "古の空 (厄爾庇斯)",
+        "en": "Sky Unsundered (Elpis)",
+        "ja": "古の空 (エルピス)"
+      },
       "category": "豆花"
     },
     {
@@ -2585,7 +3237,11 @@
           "end": 50
         }
       ],
-      "answer": "始まりの幻域 (翁法洛斯)",
+      "answer": {
+        "tc": "始まりの幻域 (翁法洛斯)",
+        "en": "One among Wonders (Omphalos)",
+        "ja": "始まりの幻域 (オムファロス)"
+      },
       "category": "豆花"
     },
     {
@@ -2597,7 +3253,11 @@
           "end": 85
         }
       ],
-      "answer": "デュナミスの欠片 (花海開在宇宙盡頭)",
+      "answer": {
+        "tc": "デュナミスの欠片 (花海開在宇宙盡頭)",
+        "en": "Dynamis",
+        "ja": "デュナミスの欠片"
+      },
       "category": "豆花"
     },
     {
@@ -2609,7 +3269,11 @@
           "end": 19
         }
       ],
-      "answer": "プヌティーの川上り (叢林激流生息河岸)",
+      "answer": {
+        "tc": "プヌティーの川上り (叢林激流生息河岸)",
+        "en": "Punuitiy Crossing (Ihuykatumu)",
+        "ja": "プヌティーの川上り (濁流遡上 イフイカ・トゥム)"
+      },
       "category": "豆芽"
     },
     {
@@ -2621,7 +3285,11 @@
           "end": 30
         }
       ],
-      "answer": "雲衝く高峰 (通天絕壁沃刻佐莫山)",
+      "answer": {
+        "tc": "雲衝く高峰 (通天絕壁沃刻佐莫山)",
+        "en": "Empyrean Peak (Worqor Zormor)",
+        "ja": "雲衝く高峰 (山嶺登頂 ウォーコー・ゾーモー)"
+      },
       "category": "豆芽"
     },
     {
@@ -2633,7 +3301,11 @@
           "end": 30
         }
       ],
-      "answer": "火花と閃光 (前哨基地先鋒營)",
+      "answer": {
+        "tc": "火花と閃光 (前哨基地先鋒營)",
+        "en": "In Fulgur and Fire (Vanguard)",
+        "ja": "火花と閃光 (外征前哨 ヴァンガード)"
+      },
       "category": "豆芽"
     },
     {
@@ -2645,7 +3317,11 @@
           "end": 69
         }
       ],
-      "answer": "月なきみそらの道化師たち (噩夢樂園迷途鬼區)",
+      "answer": {
+        "tc": "月なきみそらの道化師たち (噩夢樂園迷途鬼區)",
+        "en": "Court Jesters (The Strayborough Deadwalk)",
+        "ja": "月なきみそらの道化師たち (悪夢遊園 ストレイバロー)"
+      },
       "category": "豆花"
     },
     {
@@ -2657,7 +3333,11 @@
           "end": 21
         }
       ],
-      "answer": "The Skyruin (艷翼蛇鳥討滅戰)",
+      "answer": {
+        "tc": "The Skyruin (艷翼蛇鳥討滅戰)",
+        "en": "The Skyruin (Worqor Lar Dor)",
+        "ja": "The Skyruin (ヴァリガルマンダ討滅戦)"
+      },
       "category": "豆芽"
     },
     {
@@ -2669,7 +3349,11 @@
           "end": 27
         }
       ],
-      "answer": "金煌なる民 (圖萊尤拉白天)",
+      "answer": {
+        "tc": "金煌なる民 (圖萊尤拉白天)",
+        "en": "Morrow's Might (Tuliyollal)",
+        "ja": "金煌なる民 (トライヨラ)"
+      },
       "category": "絕"
     },
     {
@@ -2681,7 +3365,11 @@
           "end": 23
         }
       ],
-      "answer": "金煌なる夜明け (圖萊尤拉晚上)",
+      "answer": {
+        "tc": "金煌なる夜明け (圖萊尤拉晚上)",
+        "en": "Morrow's Magic (Tuliyollal)",
+        "ja": "金煌なる夜明け (トライヨラ)"
+      },
       "category": "絕"
     },
     {
@@ -2693,7 +3381,11 @@
           "end": 23
         }
       ],
-      "answer": "星なき摩天楼 (九號解決方案)",
+      "answer": {
+        "tc": "星なき摩天楼 (九號解決方案)",
+        "en": "Starless Skyline (Solution Nine)",
+        "ja": "星なき摩天楼 (ソリューション・ナイン)"
+      },
       "category": "豆花"
     },
     {
@@ -2705,7 +3397,11 @@
           "end": 27
         }
       ],
-      "answer": "Bygone Serenity (憶想之地)",
+      "answer": {
+        "tc": "Bygone Serenity (憶想之地)",
+        "en": "Bygone Serenity (Living Memory)",
+        "ja": "遠き日の思い出 (リビング・メモリー)"
+      },
       "category": "豆花"
     },
     {
@@ -2717,7 +3413,11 @@
           "end": 21
         }
       ],
-      "answer": "The Ring's Reprieve (阿卡狄亞休息室)",
+      "answer": {
+        "tc": "The Ring's Reprieve (阿卡狄亞休息室)",
+        "en": "The Ring's Reprieve (The Arcadion)",
+        "ja": "The Ring's Reprieve (アルカディア・ソサエティ)"
+      },
       "category": "絕"
     },
     {
@@ -2729,8 +3429,782 @@
           "end": 45
         }
       ],
-      "answer": "Close in the Distance (天外天垓)",
+      "answer": {
+        "tc": "Close in the Distance (天外天垓)",
+        "en": "Close in the Distance (Ultima Thule)",
+        "ja": "Close in the Distance (ウルティマ・トゥーレ)"
+      },
       "category": "豆芽"
+    },
+    {
+      "id": 210,
+      "youtubeId": "hkLTnvL64o0",
+      "segments": [
+        {
+          "start": 10,
+          "end": 26
+        }
+      ],
+      "answer": {
+        "tc": "七匹の道化たち (莫古力賢王討滅戰)",
+        "en": "Seven Jesters (Thornmarch)",
+        "ja": "七匹の道化たち (善王モグル・モグXII世討滅戦)"
+      },
+      "category": "豆芽"
+    },
+    {
+      "id": 211,
+      "youtubeId": "uHmFVkIxEKU",
+      "segments": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ],
+      "answer": {
+        "tc": "神なき世界 (究極武器破壞作戰)",
+        "en": "The Maker's Ruin (the Porta Decumana)",
+        "ja": "神なき世界 (アルテマウェポン破壊作戦)"
+      },
+      "category": "豆芽"
+    },
+    {
+      "id": 212,
+      "youtubeId": "w0t830unC_c",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": {
+        "tc": "船乗りには難破を (利維亞桑討滅戰)",
+        "en": "Wreck to the Seaman (the Whorleater)",
+        "ja": "船乗りには難破を (リヴァイアサン討滅戦)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 213,
+      "youtubeId": "oSq__aFIlZk",
+      "segments": [
+        {
+          "start": 24,
+          "end": 45
+        }
+      ],
+      "answer": {
+        "tc": "雪上の足跡 (濕婆討滅戰)",
+        "en": "Footsteps in the Snow (the Akh Afah Amphitheatre)",
+        "ja": "雪上の足跡 (シヴァ討滅戦)"
+      },
+      "category": "豆芽"
+    },
+    {
+      "id": 214,
+      "youtubeId": "gCu9Vq2TbUE",
+      "segments": [
+        {
+          "start": 15,
+          "end": 27
+        }
+      ],
+      "answer": {
+        "tc": "蛍たちの舞踏会 (格里達尼亞晚上)",
+        "en": "Dance of the Fireflies (Gridania)",
+        "ja": "蛍たちの舞踏会 (グリダニア)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 215,
+      "youtubeId": "mnDGQz71S1g",
+      "segments": [
+        {
+          "start": 0,
+          "end": 18
+        }
+      ],
+      "answer": {
+        "tc": "夏の雨の如く (空中神域不獲島)",
+        "en": "Like a Summer Rain (Neverreap)",
+        "ja": "夏の雨の如く (神域浮島 ネバーリープ)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 216,
+      "youtubeId": "iHSs_uVrP_0",
+      "segments": [
+        {
+          "start": 27,
+          "end": 48
+        }
+      ],
+      "answer": {
+        "tc": "アンブレーカブル (博物戰艦無限迴廊)",
+        "en": "Unbreakable (the Fractal Continuum)",
+        "ja": "アンブレーカブル (博物戦艦 フラクタル・コンティニアム)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 217,
+      "youtubeId": "Ul4EYiGaGI8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 31
+        }
+      ],
+      "answer": {
+        "tc": "有毒植物 (草木庭園聖茉夏娜植物園)",
+        "en": "Poison Ivy (Saint Mocianne's Arboretum)",
+        "ja": "有毒植物 (草木庭園 聖モシャーヌ植物園)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 218,
+      "youtubeId": "kJ6wCX4P90k",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "最期の咆哮 (尼德霍格征龍戰)",
+        "en": "Revenge of the Horde (the Final Steps of Faith)",
+        "ja": "最期の咆哮 (ニーズヘッグ征竜戦)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 219,
+      "youtubeId": "ZxjxIhcaIu8",
+      "segments": [
+        {
+          "start": 17,
+          "end": 40
+        }
+      ],
+      "answer": {
+        "tc": "狂気なる災厄 (俾斯麥討滅戰)",
+        "en": "Woe that Is Madness (the Limitless Blue)",
+        "ja": "狂気なる災厄 (ビスマルク討滅戦)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 220,
+      "youtubeId": "Wd_utvo4wpY",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "怒れる神々 (虛空迪亞波羅斯)",
+        "en": "Wrath of the Eikons (Diabolos Hollow)",
+        "ja": "怒れる神々 (ディアボロス・ホロー)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 221,
+      "youtubeId": "FXjRBoMO9go",
+      "segments": [
+        {
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "answer": {
+        "tc": "ホームステッド (田園郡晚上)",
+        "en": "Homestead (Idyllshire)",
+        "ja": "ホームステッド (イディルシャイア)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 222,
+      "youtubeId": "rAlbiexrW60",
+      "segments": [
+        {
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "answer": {
+        "tc": "ノブレス・オブリージュ (伊修加爾德白天)",
+        "en": "Nobility Obliges (Pillars)",
+        "ja": "ノブレス・オブリージュ (イシュガルド上層)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 223,
+      "youtubeId": "6tzDsxQCZEQ",
+      "segments": [
+        {
+          "start": 0,
+          "end": 25
+        }
+      ],
+      "answer": {
+        "tc": "ノブレス・スリープス (伊修加爾德白天)",
+        "en": "Nobility Sleeps (Pillars)",
+        "ja": "ノブレス・スリープス (イシュガルド上層)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 224,
+      "youtubeId": "W_urn_2SuYg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 17
+        }
+      ],
+      "answer": {
+        "tc": "地風水 (風水靈廟岩燕廟)",
+        "en": "Earth, Wind, and Water (the Swallow's Compass)",
+        "ja": "地風水 (風水霊殿 ガンエン廟)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 225,
+      "youtubeId": "PCoBeJz4FzA",
+      "segments": [
+        {
+          "start": 13,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "策謀 (惡黨孤城黃金閣)",
+        "en": "Deception (Kugane Castle)",
+        "ja": "策謀 (悪党成敗 クガネ城)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 226,
+      "youtubeId": "dOAA_bCCT_g",
+      "segments": [
+        {
+          "start": 15,
+          "end": 32
+        }
+      ],
+      "answer": {
+        "tc": "燃えよクァール (修行古剎星導寺)",
+        "en": "Their Deadly Mission (the Temple of the Fist)",
+        "ja": "燃えよクァール (壊神修行 星導山寺院)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 227,
+      "youtubeId": "S0dt5KJe2GI",
+      "segments": [
+        {
+          "start": 0,
+          "end": 19
+        }
+      ],
+      "answer": {
+        "tc": "祭りである (須左之男討滅戰)",
+        "en": "Riot (the Pool of Tribute)",
+        "ja": "祭りである (スサノオ討滅戦戰)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 228,
+      "youtubeId": "BI0FV4n10SQ",
+      "segments": [
+        {
+          "start": 25,
+          "end": 49
+        }
+      ],
+      "answer": {
+        "tc": "銀鱗と鋼鉄 (神龍討滅戰)",
+        "en": "Scale and Steel (the Royal Menagerie)",
+        "ja": "銀鱗と鋼鉄 (神龍討滅戦)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 229,
+      "youtubeId": "ui7hpUFrpkg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "最後の闘い (歐米茄零式時空夾縫 德爾塔4)",
+        "en": "Final, Not Final (Deltascape V4.0(Savage))",
+        "ja": "最後の闘い (次元の狭間オメガ零式：デルタ編4)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 230,
+      "youtubeId": "CTCiD5Ra1G4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "answer": {
+        "tc": "戦闘シーン (歐米茄時空夾縫 阿爾法1)",
+        "en": "Battle (Alphascape V1.0)",
+        "ja": "戦闘シーン (次元の狭間オメガ：アルファ編1)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 231,
+      "youtubeId": "BODBOFanYvk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "Ultema The Perfect Body! (聖天使阿爾蒂瑪)",
+        "en": "Ultema The Perfect Body! (Ultima, The High Seraph)",
+        "ja": "Ultema The Perfect Body! (聖天使アルテマヌ)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 232,
+      "youtubeId": "iuR1REQenI4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 22
+        }
+      ],
+      "answer": {
+        "tc": "底に潜みし者 (黑風海底阿尼德羅追憶館)",
+        "en": "Floundering in the Depths (Anamnesis Anyder)",
+        "ja": "底に潜みし者 (黒風海底 アニドラス・アナムネーシス)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 233,
+      "youtubeId": "STF4_NQnH3U",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "The Legendary Beast (伊甸希望樂園 再生1)",
+        "en": "The Legendary Beast (Eden's Promise: Anamorphosis)",
+        "ja": "The Legendary Beast (希望の園エデン：再生編3)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 234,
+      "youtubeId": "PJ4R1EByZyk",
+      "segments": [
+        {
+          "start": 25,
+          "end": 49
+        }
+      ],
+      "answer": {
+        "tc": "ボズヤの微風 (札杜諾爾高原)",
+        "en": "Wind on the Plains (Zadnor)",
+        "ja": "ボズヤの微風 (ザトゥノル高原)"
+      },
+      "category": "絕"
+    },
+    {
+      "id": 235,
+      "youtubeId": "qYbN5UYBDBM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "仮面舞踏会 (游末邦晚上)",
+        "en": "Masquerade (Eulmore)",
+        "ja": "仮面舞踏会 (ユールモア)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 236,
+      "youtubeId": "jEWz5_c2pUY",
+      "segments": [
+        {
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "answer": {
+        "tc": "赤い翼 (澤羅姆斯討滅戰)",
+        "en": "The Red Wings (the Abyssal Fracture)",
+        "ja": "赤い翼 (ゼロムス討滅戦)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 237,
+      "youtubeId": "VDhgulFcxw4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "赤き大地の恵み (荒野秘境仙人刺谷)",
+        "en": "Blessings on the Bluffs (Tender Valley)",
+        "ja": "赤き大地の恵み (荒野秘境 サボテンダーバレー)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 238,
+      "youtubeId": "UTz4xwBHZ24",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "獰猛なる器 (廢棄據點玉韋亞瓦塔實驗站)",
+        "en": "Unbroken Vessels (Yuweyawata Field Station)",
+        "ja": "獰猛なる器 (廃地討究 ユウェヤーワータ)"
+      },
+      "category": "豆花"
+    },
+    {
+      "id": 239,
+      "youtubeId": "MGUo4-bcGgA",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "姫をさがして (王城古蹟永護塔底)",
+        "en": "Find the Princess (The Underkeep)",
+        "ja": "決行 〜姫をさがして (王城旧跡 アンダーキープ)"
+      },
+      "category": "豆花",
+      "patch": "7.2"
+    },
+    {
+      "id": 240,
+      "youtubeId": "2NwfsgunPlY",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "リメンバランス (永久幽界中央終端)",
+        "en": "Remembrance (The Meso Terminal)",
+        "ja": "リメンバランス (永久幽界 メインターミナル)"
+      },
+      "category": "豆花",
+      "patch": "7.3"
+    },
+    {
+      "id": 241,
+      "youtubeId": "f5Jw_t4SxT8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "バトル1 (遺忘行路霧之跡)",
+        "en": "Battle 1 (Mistwake)",
+        "ja": "バトル1 (遺忘行路 ミストウェイク)"
+      },
+      "category": "豆花",
+      "patch": "7.4"
+    },
+    {
+      "id": 242,
+      "youtubeId": "_pFrnlvuNls",
+      "segments": [
+        {
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "answer": {
+        "tc": "空知らぬ艦 (軍工要地克呂提俄斯魔導工廠)",
+        "en": "Untested Voyager (the Clyteum)",
+        "ja": "空知らぬ艦 (妖異侵攻 クルティウス魔導工廠)"
+      },
+      "category": "絕",
+      "patch": "7.5"
+    },
+    {
+      "id": 243,
+      "youtubeId": "vd6W3IwrB0k",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "Rose of May (澤蓮妮婭討滅戰)",
+        "en": "Rose of May (Recollection)",
+        "ja": "ローズ・オブ・メイ (ゼレニア討滅戦)"
+      },
+      "category": "豆芽",
+      "patch": "7.2"
+    },
+    {
+      "id": 244,
+      "youtubeId": "L-ie1MQZcmM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "最後の闘い IX (永遠之暗討滅戰)",
+        "en": "FINAL FANTASY IX: The Final Battle (the Ageless Necropolis)",
+        "ja": "最後の闘い IX (永遠の闇討滅戦)"
+      },
+      "category": "豆芽",
+      "patch": "7.3"
+    },
+    {
+      "id": 245,
+      "youtubeId": "A55F0EiJmZk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "バトル2 (格萊楊拉波爾討滅戰)",
+        "en": "Battle 2 (Hell on Rails)",
+        "ja": "バトル2 (グラシャラボラス討滅戦)"
+      },
+      "category": "豆芽",
+      "patch": "7.4"
+    },
+    {
+      "id": 246,
+      "youtubeId": "se9v4I1QUyM",
+      "segments": [
+        {
+          "start": 0,
+          "end": 35
+        }
+      ],
+      "answer": {
+        "tc": "最後の闘い V (恩歐討滅戰)",
+        "en": "FINAL FANTASY V: The Final Battle (the Unmaking)",
+        "ja": "最後の闘い V (エヌオー討滅戦)"
+      },
+      "category": "絕",
+      "patch": "7.5"
+    },
+    {
+      "id": 247,
+      "youtubeId": "Ps16v42EB_4",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "Ride the Rhythm (阿卡狄亞登天鬥技場 中量1)",
+        "en": "Ride the Rhythm (AAC Cruiserweight M1)",
+        "ja": "Ride the Rhythm (至天の座アルカディア：クルーザー級1)"
+      },
+      "category": "豆花",
+      "patch": "7.2"
+    },
+    {
+      "id": 248,
+      "youtubeId": "4BwTz9u5tVc",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "Back to the Drawing Board (阿卡狄亞登天鬥技場 中量2)",
+        "en": "Back to the Drawing Board (AAC Cruiserweight M2)",
+        "ja": "Back to the Drawing Board (至天の座アルカディア：クルーザー級2)"
+      },
+      "category": "豆花",
+      "patch": "7.2"
+    },
+    {
+      "id": 249,
+      "youtubeId": "J9tR_Ok8XkY",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "Not Afraid (阿卡狄亞登天鬥技場 中量3)",
+        "en": "Not Afraid (AAC Cruiserweight M3)",
+        "ja": "Not Afraid (至天の座アルカディア：クルーザー級3)"
+      },
+      "category": "豆花",
+      "patch": "7.2"
+    },
+    {
+      "id": 250,
+      "youtubeId": "ZZiFAvFkNtk",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "Unleashed (阿卡狄亞登天鬥技場 中量4)",
+        "en": "Unleashed (AAC Cruiserweight M4)",
+        "ja": "Unleashed (至天の座アルカディア：クルーザー級4)"
+      },
+      "category": "豆花",
+      "patch": "7.2"
+    },
+    {
+      "id": 251,
+      "youtubeId": "wLlnrdPCIYo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "Peerless (零式阿卡狄亞登天鬥技場 中量4)",
+        "en": "Peerless (AAC Cruiserweight M4 (Savage))",
+        "ja": "Peerless (至天の座アルカディア零式：クルーザー級4)"
+      },
+      "category": "絕",
+      "patch": "7.2"
+    },
+    {
+      "id": 252,
+      "youtubeId": "V1jBJfs_01A",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "Sinister (阿卡狄亞登天鬥技場 重量1)",
+        "en": "Sinister (AAC Heavyweight M1)",
+        "ja": "Sinister (至天の座アルカディア：ヘビー級1)"
+      },
+      "category": "豆花",
+      "patch": "7.4"
+    },
+    {
+      "id": 253,
+      "youtubeId": "rmP1vtLl5Ug",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "The Mirror (阿卡狄亞登天鬥技場 重量2)",
+        "en": "The Mirror (AAC Heavyweight M2)",
+        "ja": "The Mirror (至天の座アルカディア：ヘビー級2)"
+      },
+      "category": "豆花",
+      "patch": "7.4"
+    },
+    {
+      "id": 254,
+      "youtubeId": "JHnhd_0GiQg",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "Absolute Tyranny (阿卡狄亞登天鬥技場 重量3)",
+        "en": "Absolute Tyranny (AAC Heavyweight M3)",
+        "ja": "Absolute Tyranny (至天の座アルカディア：ヘビー級3)"
+      },
+      "category": "豆花",
+      "patch": "7.4"
+    },
+    {
+      "id": 255,
+      "youtubeId": "NvVDjyh9nD8",
+      "segments": [
+        {
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "answer": {
+        "tc": "The Arcadion (零式阿卡狄亞登天鬥技場 重量4)",
+        "en": "The Arcadion (AAC Heavyweight M4 (Savage))",
+        "ja": "The Arcadion (至天の座アルカディア零式：ヘビー級4)"
+      },
+      "category": "絕",
+      "patch": "7.4"
+    },
+    {
+      "id": 256,
+      "youtubeId": "2wAA5YWz92o",
+      "segments": [
+        {
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "answer": {
+        "tc": "眠らない街 トレノ (特雷諾)",
+        "en": "Dark City Treno (Treno)",
+        "ja": "眠らない街 トレノ(トレノ)"
+      },
+      "category": "絕",
+      "patch": "7.4"
     }
   ]
 }
